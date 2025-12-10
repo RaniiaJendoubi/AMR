@@ -1,0 +1,19 @@
+# Environnement virtuel
+venv/
+
+# Données brutes lourdes (optionnel selon consigne)
+Gambia_data/*.csv
+
+# Modèles entraînés
+Gambia_data/*.pkl
+
+# Fichiers générés
+Gambia_data/confusion_matrix_*.png
+outputs/
+
+# Python
+__pycache__/
+*.pyc
+
+# Notebooks
+.ipynb_checkpoints/
