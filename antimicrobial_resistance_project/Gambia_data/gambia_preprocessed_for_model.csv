@@ -1,0 +1,104 @@
+Row Labels,Count of Sample ,Count of Sample type
+Aspirate,49.0,49.0
+ other β-haemolytic streptococci,1.0,1.0
+Coliform species,1.0,1.0
+Enterococcus species,1.0,1.0
+Escherichia coli,1.0,1.0
+Klebsiella pneumoniae,2.0,2.0
+Neisseria species,1.0,1.0
+Non-typhoidal Salmonella,1.0,1.0
+Other Streptococci,5.0,5.0
+Proteus species,1.0,1.0
+Pseudomonas aeruginosa,1.0,1.0
+Pseudomonas species,1.0,1.0
+Staphylococcus aureus,27.0,27.0
+Streptococcus pneumoniae,2.0,2.0
+Streptococcus pyogenes,2.0,2.0
+Viridan streptococci,2.0,2.0
+Blood,182.0,182.0
+ other β-haemolytic streptococci,3.0,3.0
+Bacteroides fragilis,1.0,1.0
+Coagulase negative Staph,6.0,6.0
+Coliform species,10.0,10.0
+Enterococcus species,15.0,15.0
+Escherichia coli,40.0,40.0
+Haemophilus influenzae non-type b,4.0,4.0
+Klebsiella pneumoniae,5.0,5.0
+Neisseria/Moraxella ,2.0,2.0
+Non-typhoidal Salmonella,16.0,16.0
+Proteus species,4.0,4.0
+Pseudomonas aeruginosa,4.0,4.0
+Pseudomonas species,10.0,10.0
+Staphylococcus aureus,39.0,39.0
+Streptococcus agalactiae (GBS),1.0,1.0
+Streptococcus pneumoniae,15.0,15.0
+Streptococcus pyogenes,4.0,4.0
+Viridan streptococci,3.0,3.0
+CSF,6.0,6.0
+Escherichia coli,1.0,1.0
+Pseudomonas species,1.0,1.0
+Streptococcus pneumoniae,4.0,4.0
+Others,3.0,3.0
+Enterococcus species,1.0,1.0
+Escherichia coli,1.0,1.0
+Staphylococcus aureus,1.0,1.0
+Sputum,87.0,87.0
+ Acinetobacter baumanii,3.0,3.0
+ other β-haemolytic streptococci,3.0,3.0
+Coliform species,1.0,1.0
+Enterococcus species,1.0,1.0
+Escherichia coli,1.0,1.0
+Haemophilus influenzae non-type b,20.0,20.0
+Haemophilus spp,1.0,1.0
+Klebsiella pneumoniae,17.0,17.0
+Klebsiella species,9.0,9.0
+Neisseria species,1.0,1.0
+Other Streptococci,1.0,1.0
+Proteus species,2.0,2.0
+Pseudomonas aeruginosa,4.0,4.0
+Pseudomonas species,8.0,8.0
+Staphylococcus aureus,6.0,6.0
+Streptococcus pneumoniae,6.0,6.0
+Viridan streptococci,3.0,3.0
+Stool,13.0,13.0
+Coliform species,2.0,2.0
+Escherichia coli,1.0,1.0
+Non-typhoidal Salmonella,10.0,10.0
+Swab,381.0,381.0
+ Acinetobacter baumanii,2.0,2.0
+ other β-haemolytic streptococci,4.0,4.0
+Coliform species,7.0,7.0
+Enterococcus species,9.0,9.0
+Escherichia coli,25.0,25.0
+Haemophilus influenzae non-type b,5.0,5.0
+Haemophilus spp,1.0,1.0
+Klebsiella pneumoniae,16.0,16.0
+Klebsiella species,7.0,7.0
+Neisseria gonorrhoeae,3.0,3.0
+Neisseria species,2.0,2.0
+Non-typhoidal Salmonella,1.0,1.0
+Other Streptococci,7.0,7.0
+Proteus species,27.0,27.0
+Pseudomonas aeruginosa,39.0,39.0
+Pseudomonas species,18.0,18.0
+Staphylococcus aureus,148.0,148.0
+Streptococcus agalactiae (GBS),12.0,12.0
+Streptococcus pneumoniae,4.0,4.0
+Streptococcus pyogenes,39.0,39.0
+Viridan streptococci,5.0,5.0
+Urine,442.0,442.0
+ Acinetobacter baumanii,2.0,2.0
+Bukholderia cepacia,2.0,2.0
+Candida species,26.0,26.0
+Coliform species,31.0,31.0
+Enterococcus species,16.0,16.0
+Escherichia coli,245.0,245.0
+Klebsiella pneumoniae,56.0,56.0
+Klebsiella species,14.0,14.0
+Proteus species,7.0,7.0
+Pseudomonas aeruginosa,9.0,9.0
+Pseudomonas species,5.0,5.0
+Staphylococcus aureus,12.0,12.0
+Staphylococcus saprophyticus,3.0,3.0
+Streptococcus agalactiae (GBS),14.0,14.0
+Grand Total,1163.0,1163.0

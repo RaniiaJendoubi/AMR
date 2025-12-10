@@ -1,0 +1,1164 @@
+﻿Patient #;MRCG ID;VisitDate;Sample type;Sample ;Pathogen grouping;Culture;Organism;PEN;AMP;SXT;CN;CHL;TET;CIP;CXM;ERY;PB;OX;FOX;CTX;CAZ;VA;AMC;F300
+205;2014/7919;01/03/2016  0;Aspirate/ Abscess ;Aspirate;β-haemolytic streptococci;Streptococcus Group F & E. coli; other β-haemolytic streptococci;S;S;NA;NA;S;S;NA;NA;S;NA;S;S;S;S;S;NA;NA
+207;2017/1209;13/04/2017  0;Aspirate/ Abscess ;Aspirate;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;S;R;R;R;S;NA;NA;NA;S;S;S;NA;S;NA
+183;2017/2562;02/01/2018  0;Aspirate/ Abscess ;Aspirate;Other Non-enterics;Morganella morgani;Neisseria species;S;S;R;NA;R;S;R;S;NA;NA;NA;S;S;S;NA;NA;NA
+184;2016/6461;09/12/2016  0;Aspirate/ Abscess ;Aspirate;Enterobacteriaceae;Non-typhoidal Salmonella;Non-typhoidal Salmonella;NA;S;S;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+206;1991/4707;08/11/2016  0;Aspirate/ Abscess ;Aspirate;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+186;2002/A129;10/03/2016  0;Aspirate/ Abscess ;Aspirate;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;R;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+187;2015/3400;03/07/2016  0;Aspirate/ Abscess ;Aspirate;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+188;2015/4634;01/09/2016  0;Aspirate/ Abscess ;Aspirate;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+189;2015/6490;03/12/2016  0;Aspirate/ Abscess ;Aspirate;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+190;2016/3391;01/07/2016  0;Aspirate/ Abscess ;Aspirate;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+191;2016/6187;17/11/2016  0;Aspirate/ Abscess ;Aspirate;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+192;2016/6421;06/03/2017  0;Aspirate/ Abscess ;Aspirate;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+193;2017/0416;03/03/2017  0;Aspirate/ Abscess ;Aspirate;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+194;2017/0416;03/03/2017  0;Aspirate/ Abscess ;Aspirate;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+195;2017/0759;01/11/2017  0;Aspirate/ Abscess ;Aspirate;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+196;2017/2495;19/07/2017  0;Aspirate/ Abscess ;Aspirate;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+197;2017/3714;04/10/2017  0;Aspirate/ Abscess ;Aspirate;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;R;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+198;2017/5466;23/12/2017  0;Aspirate/ Abscess ;Aspirate;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+199;2017/5483;23/12/2017  0;Aspirate/ Abscess ;Aspirate;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+200;2018/2778;08/06/2018  0;Aspirate/ Abscess ;Aspirate;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+201;2018/4311;28/08/2018  0;Aspirate/ Abscess ;Aspirate;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+202;2018/4615;14/09/2018  0;Aspirate/ Abscess ;Aspirate;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+203;2018/5087;03/10/2018  0;Aspirate/ Abscess ;Aspirate;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+204;2018/6333;15/11/2018  0;Aspirate/ Abscess ;Aspirate;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+226;2017/3939;11/10/2017  0;Aspirate/sterile;Aspirate;Enterobacteriaceae;Stenotromonas maltophilia;Coliform species;R;NA;R;S;S;R;S;R;NA;NA;S;S;R;S;S;NA;NA
+221;2007/7863;01/11/2017  0;Aspirate/sterile;Aspirate;Enterococcus spp;Enterococcus species & Streptococcus Group F;Enterococcus species;S;S;NA;NA;S;R;S;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+209;2005/5318;21/10/2016  0;Aspirate/sterile;Aspirate;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;S;R;R;R;NA;NA;NA;S;R;R;NA;S;NA
+218;2018/0866;24/02/2018  0;Aspirate/sterile;Aspirate;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;S;S;R;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+222;2017/1866;26/05/2017  0;Aspirate/sterile;Aspirate;Streptococcus species;Streptococcus species;Other Streptococci;S;S;S;NA;S;S;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+223;2018/1433;28/03/2018  0;Aspirate/sterile;Aspirate;Streptococcus species;Streptococcus species;Other Streptococci;S;S;R;NA;S;R;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+210;2018/4058;10/08/2018  0;Aspirate/sterile;Aspirate;Streptococcus species;Streptococcus species;Other Streptococci;S;S;S;NA;S;S;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+211;2018/4927;26/09/2018  0;Aspirate/sterile;Aspirate;Streptococcus species;Streptococcus species;Other Streptococci;S;S;S;NA;S;S;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+208;2018/6254;21/11/2018  0;Aspirate/sterile;Aspirate;Streptococcus species;Streptococcus species;Other Streptococci;S;S;S;NA;S;R;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+185;2017/1209;13/04/2017  0;Aspirate/sterile;Aspirate;Enterobacteriaceae;Proteus species & K. pnuemoniae;Proteus species;NA;R;R;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+224;2014/1361;13/08/2018  0;Aspirate/sterile;Aspirate;pseudomonadaceae;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+214;2014/1361;30/08/2018  0;Aspirate/sterile;Aspirate;pseudomonadaceae;Pseudomonas species;Pseudomonas species;NA;NA;NA;R;NA;NA;R;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+213;2016/4519;30/08/2016  0;Aspirate/sterile;Aspirate;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+212;2017/4366;25/10/2017  0;Aspirate/sterile;Aspirate;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+231;2017/4967;12/09/2018  0;Aspirate/sterile;Aspirate;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+219;2018/0866;04/07/2018  0;Aspirate/sterile;Aspirate;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+217;2018/2314;17/05/2018  0;Aspirate/sterile;Aspirate;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+225;2018/4618;10/09/2018  0;Aspirate/sterile;Aspirate;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+215;2018/6556;01/12/2018  0;Aspirate/sterile;Aspirate;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;R;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+227;2017/2401;07/07/2017  0;Aspirate/sterile;Aspirate;S. pneumoniae;Streptococcus pneumoniae;Streptococcus pneumoniae;R;NA;R;NA;S;R;NA;NA;S;NA;R;NA;NA;NA;S;NA;NA
+228;2018/0358;24/01/2018  0;Aspirate/sterile;Aspirate;S. pneumoniae;Streptococcus pneumoniae;Streptococcus pneumoniae;S;NA;S;NA;S;R;NA;NA;S;NA;S;NA;NA;NA;S;NA;NA
+229;2018/5721;22/10/2018  0;Aspirate/sterile;Aspirate;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;S;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+216;2018/6524;27/11/2018  0;Aspirate/sterile;Aspirate;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;S;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+220;2018/0866;13/03/2018  0;Aspirate/sterile;Aspirate;Streptococcus species;Viridan streptococci;Viridan streptococci;NA;NA;S;NA;S;R;NA;NA;R;NA;NA;NA;NA;NA;S;NA;NA
+230;2018/4691;06/12/2018  0;Aspirate/sterile;Aspirate;Streptococcus species;Viridan streptococci;Viridan streptococci;NA;NA;S;NA;S;R;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+177;2014/2048;29/12/2016  0;Blood;Blood;β-haemolytic streptococci;Streptococcus Group C; other β-haemolytic streptococci;S;S;NA;NA;S;R;S;NA;S;NA;S;NA;NA;NA;S;NA;NA
+180;2014/3528;18/04/2017  0;Blood;Blood;β-haemolytic streptococci;Streptococcus Group G; other β-haemolytic streptococci;S;S;NA;NA;S;S;S;NA;S;NA;S;NA;NA;NA;S;NA;NA
+179;2017/0049;31/01/2017  0;Blood;Blood;β-haemolytic streptococci;Streptococcus Group F; other β-haemolytic streptococci;S;S;NA;NA;S;S;S;NA;S;NA;S;NA;NA;NA;S;NA;NA
+1;2016/6480;26/12/2016  0;Blood;Blood;Other enterics;Bacteroides fragilis;Bacteroides fragilis;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+2;2016/2747;13/04/2017 0:00;Blood;Blood;Staphyloccus spp;Coagulase negative Staph;Coagulase negative Staph;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4;2016/5655;25/10/2016  0;Blood;Blood;Staphyloccus spp;Coagulase negative Staph;Coagulase negative Staph;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+6;2017/2816;03/08/2017  0;Blood;Blood;Staphylococcus species;Coagulase negative Staph;Coagulase negative Staph;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+3;2018/0902;12/03/2018  0;Blood;Blood;Staphyloccus spp;Coagulase negative Staph;Coagulase negative Staph;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+5;2018/2892;18/06/2018  0;Blood;Blood;Streptococcus species;Coagulase negative Staph;Coagulase negative Staph;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+7;2018/4395;29/08/2018  0;Blood;Blood;Staphylococcus species;Coagulase negative Staph;Coagulase negative Staph;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+12;2001/3965;23/10/2017  0;Blood;Blood;Enterobacterales;Enterobacter cloacae;Coliform species;NA;R;R;R;S;R;R;R;NA;NA;NA;R;R;R;NA;S;NA
+16;2016/4874;22/11/2016  0;Blood;Blood;Enterobacterales;Shigella boydii;Coliform species;NA;S;S;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+15;2016/4985;26/09/2016  0;Blood;Blood;Enterobacterales;Seratia plymothica;Coliform species;NA;S;S;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+14;2018/0004;02/01/2018  0;Blood;Blood;Enterobacterales;Seratia odoriferi;Coliform species;NA;R;R;S;R;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+17;2018/0653;12/02/2018  0;Blood;Blood;Enterobacteriaceae;Klebsiella species;Coliform species;NA;R;R;R;S;R;S;R;NA;NA;NA;S;S;S;NA;R;NA
+8;2018/0822;22/02/2018  0;Blood;Blood;Enterobacterales;Citrobacter freundii;Coliform species;NA;S;S;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+11;2018/1838;18/05/2018  0;Blood;Blood;Enterobacterales;Enterobacter aerogenes;Coliform species;NA;R;S;S;S;S;S;R;NA;NA;NA;R;R;R;NA;S;NA
+9;2018/1976;23/05/2018  0;Blood;Blood;Enterobacterales;Citrobacter koseri;Coliform species;NA;R;R;S;R;R;S;R;NA;NA;NA;S;S;S;NA;S;NA
+13;2018/2505;24/05/2018  0;Blood;Blood;Enterobacterales;Enterobacter cloacae;Coliform species;NA;R;R;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+10;2018/6047;05/11/2018  0;Blood;Blood;Enterobacterales;Comamonas testeroni;Coliform species;NA;R;R;S;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+178;1998/7516;11/12/2018  0;Blood;Blood;Enterococcus spp;Streptococcus Group D;Enterococcus species;R;S;NA;NA;S;R;S;NA;S;NA;S;NA;NA;NA;S;NA;NA
+22;2012/1986;28/01/2017  0;Blood;Blood;Enterococcus spp;Enterococcus spp;Enterococcus species;S;S;NA;NA;S;S;R;NA;R;NA;NA;NA;NA;NA;S;NA;NA
+181;2013/4011;05/11/2018  0;Blood;Blood;Streptococcus species;Streptococcus species;Enterococcus species;S;S;NA;NA;S;S;S;NA;R;NA;S;NA;NA;NA;S;NA;NA
+24;2013/5901;04/10/2018  0;Blood;Blood;Enterococcus spp;Enterococcus spp;Enterococcus species;S;S;NA;NA;R;R;S;NA;R;NA;NA;NA;NA;NA;S;NA;NA
+29;2016/3003;02/06/2017  0;Blood;Blood;Enterococcus spp;Enterococcus spp;Enterococcus species;S;S;R;NA;S;R;S;NA;R;NA;NA;NA;NA;NA;S;S;NA
+19;2016/6445;19/12/2016  0;Blood;Blood;Enterococcus spp;Enterococcus spp;Enterococcus species;S;S;NA;NA;S;S;S;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+20;2016/6445;19/12/2016  0;Blood;Blood;Enterococcus spp;Enterococcus spp;Enterococcus species;S;S;NA;NA;S;S;S;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+21;2016/6445;19/12/2016  0;Blood;Blood;Enterococcus spp;Enterococcus spp;Enterococcus species;S;S;NA;NA;S;S;S;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+18;2017/0182;28/12/2017  0;Blood;Blood;Enterococcus spp;Enterococcus spp;Enterococcus species;R;R;NA;NA;S;R;R;NA;R;NA;NA;NA;NA;NA;S;NA;NA
+25;2017/3253;07/09/2017  0;Blood;Blood;Enterococcus spp;Enterococcus spp;Enterococcus species;S;S;NA;NA;R;R;S;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+26;2017/4668;08/11/2017  0;Blood;Blood;Enterococcus spp;Enterococcus spp;Enterococcus species;S;S;NA;NA;S;S;S;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+23;2017/5043;27/11/2017  0;Blood;Blood;Enterococcus spp;Enterococcus spp;Enterococcus species;S;S;NA;NA;S;S;S;NA;R;NA;NA;NA;NA;NA;S;NA;NA
+27;2018/0498;31/01/2018  0;Blood;Blood;Enterococcus spp;Enterococcus spp;Enterococcus species;S;S;NA;NA;S;S;S;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+182;2018/1029;26/03/2018  0;Blood;Blood;Streptococcus species;Streptococcus species;Enterococcus species;R;S;NA;NA;S;R;S;NA;S;NA;S;NA;NA;NA;S;NA;NA
+28;2018/1472;27/03/2018  0;Blood;Blood;Enterococcus spp;Enterococcus spp;Enterococcus species;S;S;NA;NA;S;R;S;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+37;1980/1263;02/10/2017  0;Blood;Blood;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;S;R;R;R;NA;NA;NA;S;R;R;NA;R;NA
+30;1998/1209;15/03/2018  0;Blood;Blood;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;S;S;R;R;NA;NA;NA;R;S;S;NA;R;NA
+63;2010/6731;18/01/2018  0;Blood;Blood;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;S;S;S;R;NA;NA;NA;S;S;S;NA;S;NA
+67;2011/4888;06/06/2017  0;Blood;Blood;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;S;S;S;R;NA;NA;NA;S;S;S;NA;S;NA
+38;2013/5901;10/09/2018  0;Blood;Blood;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;S;S;S;R;NA;NA;NA;S;S;S;NA;S;NA
+39;2013/5901;08/11/2018  0;Blood;Blood;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;S;S;S;R;NA;NA;NA;S;S;S;NA;S;NA
+40;2015/0405;18/10/2016  0;Blood;Blood;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;S;R;S;S;NA;NA;NA;S;S;S;NA;R;NA
+68;2015/1904;10/04/2016  0;Blood;Blood;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;S;S;S;R;NA;NA;NA;S;S;S;NA;S;NA
+41;2015/5402;13/11/2017  0;Blood;Blood;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+42;2016/1816;22/02/2017  0;Blood;Blood;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+43;2016/3235;03/09/2017  0;Blood;Blood;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+64;2016/3235;03/09/2017  0;Blood;Blood;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;S;S;S;R;NA;NA;NA;S;S;S;NA;S;NA
+31;2016/5041;11/11/2016  0;Blood;Blood;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;R;R;R;R;NA;NA;NA;S;R;R;NA;R;NA
+44;2016/5048;24/11/2016  0;Blood;Blood;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+45;2016/6079;14/11/2016  0;Blood;Blood;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;S;R;R;R;NA;NA;NA;S;R;R;NA;R;NA
+46;2017/0003;09/02/2018  0;Blood;Blood;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;S;R;R;R;NA;NA;NA;S;S;S;NA;S;NA
+47;2017/1525;05/07/2017  0;Blood;Blood;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;S;R;S;S;NA;NA;NA;S;S;S;NA;R;NA
+32;2017/1642;10/05/2017  0;Blood;Blood;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;S;R;S;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+48;2017/1666;18/05/2017  0;Blood;Blood;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+49;2017/1923;31/05/2017  0;Blood;Blood;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+69;2017/2028;07/06/2017  0;Blood;Blood;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;S;S;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+50;2017/3296;11/09/2017  0;Blood;Blood;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+51;2017/3300;05/09/2017  0;Blood;Blood;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;R;R;S;R;NA;NA;NA;S;S;S;NA;S;NA
+52;2017/3999;28/01/2018  0;Blood;Blood;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;R;R;S;R;NA;NA;NA;S;S;S;NA;S;NA
+53;2017/4757;13/11/2017  0;Blood;Blood;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;S;R;S;R;NA;NA;NA;S;S;S;NA;S;NA
+54;2017/5363;30/12/2017  0;Blood;Blood;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;S;R;S;R;NA;NA;NA;S;R;R;NA;S;NA
+55;2017/5515;22/12/2017  0;Blood;Blood;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;S;R;S;R;NA;NA;NA;S;S;S;NA;R;NA
+56;2018/0301;27/08/2018  0;Blood;Blood;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;R;R;S;R;NA;NA;NA;S;S;S;NA;S;NA
+57;2018/0775;20/02/2018  0;Blood;Blood;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+58;2018/0990;05/03/2018  0;Blood;Blood;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;S;R;S;R;NA;NA;NA;S;S;S;NA;S;NA
+33;2018/1117;12/03/2018  0;Blood;Blood;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;S;S;S;R;S;S;S;NA;NA;NA;S;S;R;NA;S;NA
+34;2018/1252;16/03/2018  0;Blood;Blood;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;S;S;S;S;S;R;NA;NA;NA;S;S;S;NA;S;NA
+35;2018/1252;16/03/2018  0;Blood;Blood;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;S;S;S;S;S;R;NA;NA;NA;S;S;S;NA;S;NA
+36;2018/1526;29/03/2018  0;Blood;Blood;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;S;S;S;S;S;R;NA;NA;NA;S;S;S;NA;S;NA
+59;2018/1634;06/04/2018  0;Blood;Blood;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;R;R;S;R;NA;NA;NA;S;S;S;NA;S;NA
+60;2018/2918;18/06/2018  0;Blood;Blood;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;S;R;R;R;NA;NA;NA;S;S;S;NA;R;NA
+65;2018/4521;04/09/2018  0;Blood;Blood;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;S;R;S;R;NA;NA;NA;S;S;S;NA;S;NA
+61;2018/4823;26/09/2018  0;Blood;Blood;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;S;S;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+66;2018/5153;01/10/2018  0;Blood;Blood;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;S;R;S;R;NA;NA;NA;S;S;S;NN;S;NA
+62;2018/6215;12/11/2018  0;Blood;Blood;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;S;R;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+70;2016/4824;19/09/2016  0;Blood;Blood;Haemophilus spp;Haemophilus influenzae non-type b;Haemophilus influenzae non-type b;NA;S;R;NA;S;S;S;S;NA;NA;NA;NA;S;S;NA;S;NA
+71;2017/3795;29/09/2017  0;Blood;Blood;Haemophilus spp;Haemophilus influenzae non-type b;Haemophilus influenzae non-type b;NA;S;R;NA;S;S;S;S;NA;NA;NA;NA;S;S;NA;S;NA
+72;2018/0227;05/04/2018  0;Blood;Blood;Haemophilus spp;Haemophilus influenzae non-type b;Haemophilus influenzae non-type b;NA;S;R;NA;S;S;S;S;NA;NA;NA;NA;S;S;NA;S;NA
+73;2018/1949;24/04/2018  0;Blood;Blood;Haemophilus spp;Haemophilus influenzae non-type b;Haemophilus influenzae non-type b;NA;S;R;NA;S;S;S;S;NA;NA;NA;NA;S;S;NA;S;NA
+74;2012/1896;10/07/2017  0;Blood;Blood;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;R;S;R;R;R;NA;NA;NA;S;R;R;NA;R;NA
+78;2016/5540;20/10/2016  0;Blood;Blood;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;S;S;R;S;R;NA;NA;NA;S;R;R;NA;R;NA
+75;2016/5868;03/11/2016  0;Blood;Blood;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;S;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+76;2017/1537;04/05/2017  0;Blood;Blood;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;S;R;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+77;2018/1751;11/04/2018  0;Blood;Blood;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;S;R;R;S;R;R;NA;NA;NA;S;R;R;NA;R;NA
+80;2017/2415;24/01/2018  0;Blood;Blood;Neisseria spp;Neisseria species;Neisseria/Moraxella ;NA;S;S;S;R;NA;R;NA;NA;NA;NA;NA;R;NA;NA;NA;NA
+79;2018/6818;12/12/2018  0;Blood;Blood;Other Non-enterics;Moraxella catarrhalis;Neisseria/Moraxella ;NA;S;S;S;S;NA;S;NA;NA;NA;NA;NA;S;NA;NA;NA;NA
+82;2003/4071;04/10/2017  0;Blood;Blood;Enterobacteriaceae;Non-typhoidal Salmonella;Non-typhoidal Salmonella;NA;S;S;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+83;2012/2032;09/01/2018  0;Blood;Blood;Enterobacteriaceae;Non-typhoidal Salmonella;Non-typhoidal Salmonella;NA;S;S;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+84;2013/2928;23/05/2018  0;Blood;Blood;Enterobacteriaceae;Non-typhoidal Salmonella;Non-typhoidal Salmonella;NA;S;S;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+85;2016/0591;07/02/2017  0;Blood;Blood;Enterobacteriaceae;Non-typhoidal Salmonella;Non-typhoidal Salmonella;NA;S;R;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+86;2016/2230;07/03/2017  0;Blood;Blood;Enterobacteriaceae;Non-typhoidal Salmonella;Non-typhoidal Salmonella;NA;S;S;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+81;2016/4989;26/09/2016  0;Blood;Blood;Enterobacteriaceae;Non-typhoidal Salmonella;Non-typhoidal Salmonella;NA;S;S;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+87;2016/5583;02/11/2016  0;Blood;Blood;Enterobacteriaceae;Non-typhoidal Salmonella;Non-typhoidal Salmonella;NA;S;S;R;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+96;2016/6461;06/12/2016  0;Blood;Blood;Enterobacteriaceae;Non-typhoidal Salmonella;Non-typhoidal Salmonella;NA;S;S;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+88;2017/4422;30/10/2017  0;Blood;Blood;Enterobacteriaceae;Non-typhoidal Salmonella;Non-typhoidal Salmonella;NA;S;S;S;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+89;2017/4993;23/11/2017  0;Blood;Blood;Enterobacteriaceae;Non-typhoidal Salmonella;Non-typhoidal Salmonella;NA;S;S;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+90;2017/5422;28/12/2017  0;Blood;Blood;Enterobacteriaceae;Non-typhoidal Salmonella;Non-typhoidal Salmonella;NA;S;R;S;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+91;2018/0157;10/01/2018  0;Blood;Blood;Enterobacteriaceae;Non-typhoidal Salmonella;Non-typhoidal Salmonella;NA;S;S;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+92;2018/3969;06/08/2018  0;Blood;Blood;Enterobacteriaceae;Non-typhoidal Salmonella;Non-typhoidal Salmonella;NA;S;S;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+93;2018/4016;08/08/2018  0;Blood;Blood;Enterobacteriaceae;Non-typhoidal Salmonella;Non-typhoidal Salmonella;NA;S;S;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+94;2018/5767;23/10/2018  0;Blood;Blood;Enterobacteriaceae;Non-typhoidal Salmonella;Non-typhoidal Salmonella;NA;S;S;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+95;2018/6249;21/11/2018  0;Blood;Blood;Enterobacteriaceae;Non-typhoidal Salmonella;Non-typhoidal Salmonella;NA;S;S;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+99;2014/3413;20/05/2016  0;Blood;Blood;Enterobacteriaceae;Proteus mirabilis;Proteus species;NA;S;S;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+98;2017/0397;24/05/2017  0;Blood;Blood;Enterobacteriaceae;Proteus mirabilis;Proteus species;NA;S;R;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+97;2017/5016;27/11/2017  0;Blood;Blood;Enterobacteriaceae;Proteus mirabilis;Proteus species;NA;S;R;S;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+100;2018/1976;22/05/2018  0;Blood;Blood;Enterobacteriaceae;Proteus species;Proteus species;NA;S;S;S;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+104;2008/1460;12/03/2018  0;Blood;Blood;pseudomonadaceae;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;R;NA;NA;NA
+103;2016/4221;01/03/2018  0;Blood;Blood;pseudomonadaceae;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+101;2016/5068;29/09/2016  0;Blood;Blood;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+102;2018/4942;01/12/2018  0;Blood;Blood;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+109;2000/3291;18/01/2018  0;Blood;Blood;pseudomonadaceae;Pantoea species;Pseudomonas species;NA;NA;R;S;R;S;S;NA;NA;NA;NA;NA;NA;S;NA;NA;NA
+113;2015/6526;15/11/2016  0;Blood;Blood;pseudomonadaceae;Pseudomonas species;Pseudomonas species;NA;NA;R;S;S;S;S;NA;NA;NA;NA;NA;NA;S;NA;NA;NA
+112;2016/4783;16/09/2016  0;Blood;Blood;pseudomonadaceae;Pseudomonas species;Pseudomonas species;NA;NA;S;S;R;R;R;NA;NA;NA;NA;NA;NA;S;NA;NA;NA
+110;2016/6282;22/11/2016  0;Blood;Blood;pseudomonadaceae;Pseudomonas fluorescens;Pseudomonas species;NA;NA;R;R;R;R;S;NA;NA;NA;NA;NA;NA;S;NA;NA;NA
+114;2017/0230;13/02/2017  0;Blood;Blood;pseudomonadaceae;Weeksella virosa;Pseudomonas species;NA;NA;R;S;R;S;S;NA;NA;NA;NA;NA;NA;S;NA;NA;NA
+108;2017/1600;16/05/2017  0;Blood;Blood;Other enterics;Aeromonas hydrophilia;Pseudomonas species;NA;NA;R;S;R;R;S;NA;NA;NA;NA;NA;NA;S;NA;NA;NA
+107;2017/3757;11/10/2017  0;Blood;Blood;Other enterics; Acinetobacter baumanii;Pseudomonas species;NA;NA;R;S;R;S;S;NA;NA;NA;NA;NA;NA;S;NA;NA;NA
+105;2018/2557;25/06/2018  0;Blood;Blood;pseudomonadaceae;Sphinomonas paucimobilis;Pseudomonas species;NA;NA;R;S;S;R;S;NA;NA;NA;NA;NA;NA;S;NA;NA;NA
+111;2018/2792;13/07/2018  0;Blood;Blood;pseudomonadaceae;Pseudomonas fluorescens;Pseudomonas species;NA;NA;R;S;R;S;S;NA;NA;NA;NA;NA;NA;S;NA;NA;NA
+106;2018/5020;25/09/2018  0;Blood;Blood;pseudomonadaceae;Stenotrophomonas maltophilia;Pseudomonas species;NA;NA;S;S;S;R;S;NA;NA;NA;NA;NA;NA;S;NA;NA;NA
+118;1991/4707;07/11/2016  0;Blood;Blood;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;R;NA;S;S;NA;NA;S;NA;NA
+152;1993/2394;28/06/2017  0;Blood;Blood;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+119;1999/3459;28/12/2016  0;Blood;Blood;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+120;1999/5980;06/11/2018  0;Blood;Blood;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+121;2000/0903;26/04/2018  0;Blood;Blood;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;R;S;R;S;NA;R;NA;S;S;NA;NA;S;NA;NA
+122;2001/3965;23/09/2017  0;Blood;Blood;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+123;2008/1911;03/11/2018  0;Blood;Blood;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+124;2008/3112;07/11/2018  0;Blood;Blood;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+125;2009/2887;01/08/2017  0;Blood;Blood;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+126;2013/1289;04/08/2018  0;Blood;Blood;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+127;2014/2611;15/11/2018  0;Blood;Blood;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+115;2014/7299;07/03/2017  0;Blood;Blood;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+128;2016/3205;29/08/2016  0;Blood;Blood;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+129;2016/4519;30/08/2016  0;Blood;Blood;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+130;2016/5761;31/10/2016  0;Blood;Blood;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+131;2017/0416;24/02/2017  0;Blood;Blood;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+132;2017/0416;03/03/2017  0;Blood;Blood;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+153;2017/0416;05/03/2017  0;Blood;Blood;Staphylococcus species;Staphylococcus aureus & Candida albicans;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+133;2017/1649;10/05/2017  0;Blood;Blood;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;R;R;S;NA;R;NA;S;S;NA;NA;S;NA;NA
+134;2017/1677;12/05/2017  0;Blood;Blood;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+135;2017/2016;06/06/2017  0;Blood;Blood;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+117;2017/2842;07/08/2017  0;Blood;Blood;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+136;2017/3714;26/09/2017  0;Blood;Blood;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+137;2017/4501;01/11/2017  0;Blood;Blood;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+116;2017/5363;30/12/2017  0;Blood;Blood;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+138;2017/5363;14/12/2017  0;Blood;Blood;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+139;2018/0578;06/02/2018  0;Blood;Blood;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+140;2018/0674;13/02/2018  0;Blood;Blood;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+141;2018/1332;10/04/2018  0;Blood;Blood;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+142;2018/1394;22/03/2018  0;Blood;Blood;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+143;2018/1920;23/04/2018  0;Blood;Blood;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+144;2018/3306;11/07/2018  0;Blood;Blood;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+145;2018/3836;30/07/2018  0;Blood;Blood;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;S;S;NA;R;NA;S;S;NA;NA;S;NA;NA
+146;2018/4058;09/08/2018  0;Blood;Blood;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+147;2018/4755;12/09/2018  0;Blood;Blood;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+148;2018/4919;19/09/2018  0;Blood;Blood;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+149;2018/5484;11/12/2018  0;Blood;Blood;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;R;S;NA;R;NA;S;S;NA;NA;S;NA;NA
+150;2018/5900;29/10/2018  0;Blood;Blood;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+151;2018/6474;23/11/2018  0;Blood;Blood;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+172;2016/2291;05/05/2016  0;Blood;Blood;β-haemolytic streptococci;Streptococcus agalactiae (GBS);Streptococcus agalactiae (GBS);S;S;NA;NA;S;S;S;NA;S;NA;S;NA;NA;NA;S;NA;NA
+154;1980/1498;15/09/2016  0;Blood;Blood;S. pneumoniae;Streptococcus pneumoniae;Streptococcus pneumoniae;S;NA;R;NA;S;R;NA;NA;S;NA;S;NA;NA;NA;S;NA;NA
+155;2016/3343;01/03/2017  0;Blood;Blood;S. pneumoniae;Streptococcus pneumoniae;Streptococcus pneumoniae;S;NA;R;NA;S;S;NA;NA;S;NA;S;NA;NA;NA;S;NA;NA
+156;2016/6395;29/11/2016  0;Blood;Blood;S. pneumoniae;Streptococcus pneumoniae;Streptococcus pneumoniae;S;NA;R;NA;S;S;NA;NA;S;NA;S;NA;NA;NA;S;NA;NA
+157;2016/6447;13/04/2017  0;Blood;Blood;S. pneumoniae;Streptococcus pneumoniae;Streptococcus pneumoniae;S;NA;R;NA;S;R;NA;NA;R;NA;S;NA;NA;NA;S;NA;NA
+158;2017/0060;01/02/2017  0;Blood;Blood;S. pneumoniae;Streptococcus pneumoniae;Streptococcus pneumoniae;R;NA;R;NA;S;S;NA;NA;S;NA;R;NA;NA;NA;S;NA;NA
+159;2017/0116;06/02/2017  0;Blood;Blood;S. pneumoniae;Streptococcus pneumoniae;Streptococcus pneumoniae;S;NA;R;NA;S;S;NA;NA;S;NA;S;NA;NA;NA;S;NA;NA
+160;2017/0862;22/03/2017  0;Blood;Blood;S. pneumoniae;Streptococcus pneumoniae;Streptococcus pneumoniae;S;NA;R;NA;S;S;NA;NA;S;NA;S;NA;NA;NA;S;NA;NA
+161;2017/1685;11/05/2017  0;Blood;Blood;S. pneumoniae;Streptococcus pneumoniae;Streptococcus pneumoniae;S;NA;R;NA;S;S;NA;NA;S;NA;S;NA;NA;NA;S;NA;NA
+162;2017/5155;04/12/2017  0;Blood;Blood;S. pneumoniae;Streptococcus pneumoniae;Streptococcus pneumoniae;S;NA;R;NA;S;S;NA;NA;S;NA;S;NA;NA;NA;S;NA;NA
+163;2018/0378;24/01/2018  0;Blood;Blood;S. pneumoniae;Streptococcus pneumoniae;Streptococcus pneumoniae;R;NA;R;NA;S;R;NA;NA;S;NA;R;NA;NA;NA;S;NA;NA
+164;2018/1410;24/03/2018  0;Blood;Blood;S. pneumoniae;Streptococcus pneumoniae;Streptococcus pneumoniae;S;NA;S;NA;S;S;NA;NA;S;NA;S;NA;NA;NA;S;NA;NA
+168;2018/1977;24/05/2018  0;Blood;Blood;S. pneumoniae;Streptococcus pneumoniae;Streptococcus pneumoniae;R;NA;R;NA;S;R;NA;NA;S;NA;R;NA;NA;NA;S;NA;NA
+165;2018/3180;28/06/2018  0;Blood;Blood;S. pneumoniae;Streptococcus pneumoniae;Streptococcus pneumoniae;S;NA;R;NA;S;S;NA;NA;S;NA;S;NA;NA;NA;S;NA;NA
+166;2018/5873;25/10/2018  0;Blood;Blood;S. pneumoniae;Streptococcus pneumoniae;Streptococcus pneumoniae;S;NA;R;NA;R;R;NA;NA;S;NA;S;NA;NA;NA;S;NA;NA
+167;2018/6449;27/11/2018  0;Blood;Blood;S. pneumoniae;Streptococcus pneumoniae;Streptococcus pneumoniae;S;NA;R;NA;S;S;NA;NA;S;NA;S;NA;NA;NA;S;NA;NA
+174;2016/6072;11/11/2016  0;Blood;Blood;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;R;S;NA;S;NA;S;NA;NA;NA;S;NA;NA
+175;2018/1612;05/04/2018  0;Blood;Blood;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;R;S;NA;S;NA;S;NA;NA;NA;S;NA;NA
+173;2018/2848;12/06/2018  0;Blood;Blood;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;S;S;NA;S;NA;S;NA;NA;NA;S;NA;NA
+176;2018/3759;06/08/2018  0;Blood;Blood;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;S;S;NA;S;NA;S;NA;NA;NA;S;NA;NA
+171;2012/5136;10/11/2018  0;Blood;Blood;Streptococcus species;Viridan streptococci;Viridan streptococci;NA;NA;S;NA;S;S;NA;NA;S;NA;R;NA;NA;NA;S;NA;NA
+169;2016/4221;28/07/2017  0;Blood;Blood;Streptococcus species;Viridan streptococci;Viridan streptococci;NA;NA;R;NA;S;R;NA;NA;S;NA;R;NA;NA;NA;S;NA;NA
+170;2018/6953;19/12/2018  0;Blood;Blood;Streptococcus species;Viridan streptococci;Viridan streptococci;NA;NA;R;NA;S;R;NA;NA;R;NA;R;NA;NA;NA;S;NA;NA
+232;2017/3079;19/08/2017  0;CSF;CSF;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+233;2017/3079;19/08/2017  0;CSF;CSF;Enterobacteriaceae;Raoultella ornithinolytica;Pseudomonas species;NA;R;NA;S;NA;NA;S;NA;NA;S;NA;NA;S;S;NA;S;NA
+234;2016/6078;14/11/2016  0;CSF;CSF;S. pneumoniae;Streptococcus pneumoniae;Streptococcus pneumoniae;S;NA;S;NA;S;S;NA;NA;S;NA;S;NA;NA;NA;S;NA;NA
+235;2018/0378;24/01/2018  0;CSF;CSF;S. pneumoniae;Streptococcus pneumoniae;Streptococcus pneumoniae;R;NA;S;NA;S;R;NA;NA;S;NA;R;NA;NA;NA;S;NA;NA
+237;2018/1368;21/03/2018  0;CSF;CSF;S. pneumoniae;Streptococcus pneumoniae;Streptococcus pneumoniae;S;NA;R;NA;S;S;NA;NA;S;NA;S;NA;NA;NA;S;NA;NA
+236;2018/1410;24/03/2018  0;CSF;CSF;S. pneumoniae;Streptococcus pneumoniae;Streptococcus pneumoniae;S;NA;S;NA;S;S;NA;NA;S;NA;S;NA;NA;NA;S;NA;NA
+680;2008/0705;19/05/2015  0;Semen;Others;Enterococcus spp;Enterococci faecalis;Enterococcus species;S;S;NA;NA;S;R;S;NA;S;NA;NA;NA;NA;NA;NA;NA;NA
+681;2016/6347;25/11/2016  0;Semen;Others;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;S;R;R;R;NA;NA;NA;S;R;R;NA;R;NA
+682;2016/2930;16/06/2016  0;Skin Snip;Others;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+683;2015/4157;11/08/2015  0;Sputum;Sputum;Other enterics; Acinetobacter baumanii; Acinetobacter baumanii;NA;R;S;S;R;S;S;S;NA;NA;NA;NA;S;S;NA;S;NA
+684;2015/6107;16/11/2015  0;Sputum;Sputum;Other enterics; Acinetobacter baumanii; Acinetobacter baumanii;NA;R;S;S;R;S;S;R;NA;NA;NA;NA;R;R;NA;R;NA
+685;2017/5362;21/11/2018  0;Sputum;Sputum;Other enterics;Acinetobacter baumanii; Acinetobacter baumanii;NA;R;S;S;R;S;S;R;NA;NA;NA;NA;R;R;NA;S;NA
+737;2007/3583;05/05/2015  0;Sputum;Sputum;β-haemolytic streptococci;Streptococcus Group C; other β-haemolytic streptococci;S;S;NA;NA;S;R;NA;NA;S;NA;S;S;S;S;S;NA;NA
+738;2008/5350;02/06/2016  0;Sputum;Sputum;β-haemolytic streptococci;Streptococcus Group G; other β-haemolytic streptococci;S;S;NA;NA;S;S;NA;NA;S;NA;S;S;S;S;S;NA;NA
+739;2016/5100;30/09/2016  0;Sputum;Sputum;β-haemolytic streptococci;Streptococcus Group G; other β-haemolytic streptococci;S;S;NA;NA;S;R;NA;NA;S;NA;S;S;S;S;S;NA;NA
+686;2006/6357;09/04/2018  0;Sputum;Sputum;Other enterics;Acromonas hydrophilia/caviale;Coliform species;NA;S;S;S;S;S;S;R;NA;NA;NA;NA;R;S;NA;S;NA
+687;1997/4102;16/11/2017  0;Sputum;Sputum;Enterococcus spp;Enterococcus species;Enterococcus species;S;S;NA;NA;S;S;S;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+688;2018/2117;02/05/2018  0;Sputum;Sputum;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;S;S;S;S;S;S;NA;NA;NA;S;R;S;NA;R;NA
+689;1998/5121;30/06/2015  0;Sputum;Sputum;Haemophilus spp;Haemophilus influenzae non-type b;Haemophilus influenzae non-type b;NA;S;R;NA;S;S;S;S;NA;NA;NA;NA;S;S;NA;S;NA
+690;2000/4968;12/10/2017  0;Sputum;Sputum;Haemophilus spp;Haemophilus influenzae non-type b;Haemophilus influenzae non-type b;NA;S;R;NA;S;S;S;S;NA;NA;NA;NA;S;S;NA;S;NA
+691;2007/4455;12/04/2017  0;Sputum;Sputum;Haemophilus spp;Haemophilus influenzae non-type b;Haemophilus influenzae non-type b;NA;S;R;NA;S;S;S;S;NA;NA;NA;NA;S;S;NA;S;NA
+692;2007/4864;15/11/2016  0;Sputum;Sputum;Haemophilus spp;Haemophilus influenzae non-type b;Haemophilus influenzae non-type b;NA;S;R;NA;S;S;S;S;NA;NA;NA;NA;S;S;NA;S;NA
+693;2013/5447;14/03/2018  0;Sputum;Sputum;Haemophilus spp;Haemophilus influenzae non-type b;Haemophilus influenzae non-type b;NA;S;R;NA;S;S;S;S;NA;NA;NA;NA;S;S;NA;S;NA
+694;2013/5447;14/03/2018  0;Sputum;Sputum;Haemophilus spp;Haemophilus influenzae non-type b;Haemophilus influenzae non-type b;NA;S;R;NA;R;R;S;S;NA;NA;NA;NA;S;S;NA;S;NA
+695;2014/2641;09/03/2016  0;Sputum;Sputum;Haemophilus spp;Haemophilus influenzae non-type b;Haemophilus influenzae non-type b;NA;S;S;NA;S;S;S;S;NA;NA;NA;NA;S;S;NA;S;NA
+696;2015/0415;30/07/2015  0;Sputum;Sputum;Haemophilus spp;Haemophilus influenzae non-type b;Haemophilus influenzae non-type b;NA;S;R;NA;S;S;S;S;NA;NA;NA;NA;S;S;NA;S;NA
+697;2015/1462;18/08/2015  0;Sputum;Sputum;Haemophilus spp;Haemophilus influenzae non-type b;Haemophilus influenzae non-type b;NA;S;S;NA;S;S;S;S;NA;NA;NA;NA;S;S;NA;S;NA
+698;2015/2241;26/06/2015  0;Sputum;Sputum;Haemophilus spp;Haemophilus influenzae non-type b;Haemophilus influenzae non-type b;NA;S;R;NA;S;S;S;S;NA;NA;NA;NA;S;S;NA;S;NA
+699;2015/4999;29/02/2016  0;Sputum;Sputum;Haemophilus spp;Haemophilus influenzae non-type b;Haemophilus influenzae non-type b;NA;S;R;NA;S;R;S;S;NA;NA;NA;NA;S;S;NA;S;NA
+700;2016/0223;09/02/2016  0;Sputum;Sputum;Haemophilus spp;Haemophilus influenzae non-type b;Haemophilus influenzae non-type b;NA;S;R;NA;S;S;S;S;NA;NA;NA;NA;S;S;NA;S;NA
+701;2016/1657;29/03/2016  0;Sputum;Sputum;Haemophilus spp;Haemophilus influenzae non-type b;Haemophilus influenzae non-type b;NA;R;R;NA;S;R;S;S;NA;NA;NA;NA;S;R;NA;S;NA
+702;2016/6685;20/12/2016  0;Sputum;Sputum;Haemophilus spp;Haemophilus influenzae non-type b;Haemophilus influenzae non-type b;NA;S;R;NA;S;S;S;S;NA;NA;NA;NA;S;S;NA;S;NA
+703;2017/0225;13/02/2017  0;Sputum;Sputum;Haemophilus spp;Haemophilus influenzae non-type b;Haemophilus influenzae non-type b;NA;R;R;NA;S;S;S;S;NA;NA;NA;NA;R;S;NA;R;NA
+704;2017/0809;20/03/2017  0;Sputum;Sputum;Haemophilus spp;Haemophilus influenzae non-type b;Haemophilus influenzae non-type b;NA;R;R;NA;S;S;;S;NA;NA;NA;NA;S;S;NA;S;NA
+705;2018/0878;26/02/2018  0;Sputum;Sputum;Haemophilus spp;Haemophilus influenzae non-type b;Haemophilus influenzae non-type b;NA;S;R;NA;S;S;S;S;NA;NA;NA;NA;S;S;NA;S;NA
+706;2018/4919;19/11/2018  0;Sputum;Sputum;Haemophilus spp;Haemophilus influenzae non-type b;Haemophilus influenzae non-type b;NA;S;S;NA;S;S;S;S;NA;NA;NA;NA;S;S;NA;S;NA
+707;2018/5102;27/09/2018  0;Sputum;Sputum;Haemophilus spp;Haemophilus influenzae non-type b;Haemophilus influenzae non-type b;NA;S;R;NA;S;S;S;S;NA;NA;NA;NA;S;S;NA;S;NA
+708;2018/5640;18/10/2018  0;Sputum;Sputum;Haemophilus spp;Haemophilus influenzae non-type b;Haemophilus influenzae non-type b;NA;S;R;NA;S;S;S;S;NA;NA;NA;NA;S;S;NA;S;NA
+709;2009/7275;13/07/2015  0;Sputum;Sputum;Haemophilus spp;Haemophilus species;Haemophilus spp;NA;S;R;NA;S;S;S;S;NA;NA;NA;NA;S;S;NA;S;NA
+716;1990/4115;19/01/2016  0;Sputum;Sputum;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;R;S;S;S;R;NA;NA;NA;S;R;S;NA;S;NA
+717;2010/1854;28/09/2015  0;Sputum;Sputum;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;S;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+715;2013/5447;14/03/2018  0;Sputum;Sputum;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+713;2015/3539;16/07/2016  0;Sputum;Sputum;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;S;R;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+718;2015/4422;21/08/2015  0;Sputum;Sputum;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+719;2015/6338;26/11/2015  0;Sputum;Sputum;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;S;S;S;S;S;S;NA;NA;NA;S;S;S;NA;R;NA
+714;2016/3003;30/05/2017  0;Sputum;Sputum;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;R;R;R;R;R;NA;NA;NA;S;R;R;NA;R;NA
+710;2016/4564;17/04/2018  0;Sputum;Sputum;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;S;S;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+720;2016/5317;08/11/2016  0;Sputum;Sputum;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;S;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+721;2016/5334;12/11/2016  0;Sputum;Sputum;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;S;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+722;2016/5339;04/11/2016  0;Sputum;Sputum;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;S;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+723;2016/5492;18/10/2016  0;Sputum;Sputum;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+724;2016/6116;21/11/2016  0;Sputum;Sputum;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;R;S;R;S;R;NA;NA;NA;S;R;R;NA;S;NA
+711;2017/4665;19/04/2018  0;Sputum;Sputum;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;S;R;R;R;R;R;NA;NA;NA;S;R;S;NA;R;NA
+726;2018/0175;11/01/2018  0;Sputum;Sputum;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;S;R;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+712;2018/2137;02/05/2018  0;Sputum;Sputum;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;S;S;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+725;2018/6513;29/11/2018  0;Sputum;Sputum;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;S;R;R;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+727;1997/5863;02/06/2017  0;Sputum;Sputum;Enterobacteriaceae;Klebsiella species;Klebsiella species;NA;R;S;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+728;2000/2712;18/05/2018  0;Sputum;Sputum;Enterobacteriaceae;Klebsiella species;Klebsiella species;NA;R;R;S;R;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+729;2014/0443;21/09/2017  0;Sputum;Sputum;Enterobacteriaceae;Klebsiella species;Klebsiella species;NA;R;R;S;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+730;2014/0503;19/05/2017  0;Sputum;Sputum;Enterobacteriaceae;Klebsiella species;Klebsiella species;NA;R;S;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+731;2017/1659;14/03/2018  0;Sputum;Sputum;Enterobacteriaceae;Klebsiella species;Klebsiella species;NA;R;R;S;S;S;S;R;NA;NA;NA;S;S;S;NA;S;NA
+732;2018/1235;29/03/2018  0;Sputum;Sputum;Enterobacteriaceae;Klebsiella species;Klebsiella species;NA;R;R;R;R;S;R;R;NA;NA;NA;S;R;R;NA;R;NA
+733;2018/1461;28/03/2018  0;Sputum;Sputum;Enterobacteriaceae;Klebsiella species;Klebsiella species;NA;R;R;S;R;R;S;R;NA;NA;NA;S;S;S;NA;S;NA
+734;2018/2117;02/05/2018  0;Sputum;Sputum;Enterobacteriaceae;Klebsiella species;Klebsiella species;NA;R;R;S;S;S;S;R;NA;NA;NA;S;S;S;NA;S;NA
+735;2018/2549;12/06/2018  0;Sputum;Sputum;Enterobacteriaceae;Klebsiella species;Klebsiella species;NA;R;S;S;S;S;S;R;NA;NA;NA;S;S;S;NA;S;NA
+736;2017/0776;16/03/2017  0;Sputum;Sputum;Neisseria spp;Neisseria species;Neisseria species;S;S;S;NA;S;S;S;S;NA;NA;NA;S;S;S;NA;NA;NA
+740;2003/3041;15/11/2018  0;Sputum;Sputum;Streptococcus species;Streptococcus species;Other Streptococci;S;S;R;NA;S;S;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+741;1980/0299;06/09/2018  0;Sputum;Sputum;Enterobacteriaceae;Proteus species;Proteus species;NA;R;S;S;R;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+742;2017/5184;05/12/2017  0;Sputum;Sputum;Enterobacteriaceae;Proteus species;Proteus species;NA;S;S;S;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+743;2014/1361;13/08/2018  0;Sputum;Sputum;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+744;2015/4999;28/06/2016  0;Sputum;Sputum;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;R;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+746;2015/4999;20/06/2016  0;Sputum;Sputum;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+745;2016/0310;20/01/2016  0;Sputum;Sputum;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+749;2002/1596;13/11/2017  0;Sputum;Sputum;pseudomonadaceae;Pseudomonas species;Pseudomonas species;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+750;2005/5355;28/09/2015  0;Sputum;Sputum;pseudomonadaceae;Pseudomonas species;Pseudomonas species;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+751;2011/4719;10/10/2017  0;Sputum;Sputum;pseudomonadaceae;Pseudomonas species;Pseudomonas species;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+752;2016/5906;24/03/2017  0;Sputum;Sputum;pseudomonadaceae;Pseudomonas species;Pseudomonas species;NA;NA;NA;R;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+748;2017/2578;20/07/2017  0;Sputum;Sputum;pseudomonadaceae;Pseudomonas species;Pseudomonas species;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+753;2017/3707;26/09/2017  0;Sputum;Sputum;pseudomonadaceae;Pseudomonas species;Pseudomonas species;NA;S;NA;S;NA;NA;R;NA;NA;S;NA;NA;NA;R;NA;NA;NA
+747;2018/2393;18/05/2018  0;Sputum;Sputum;pseudomonadaceae;Pseudomonas fluorescens;Pseudomonas species;NA;NA;NA;R;NA;NA;S;NA;NA;R;NA;NA;NA;S;NA;NA;NA
+754;2018/3615;19/07/2018  0;Sputum;Sputum;pseudomonadaceae;Pseudomonas species;Pseudomonas species;NA;;NA;S;NA;NA;R;NA;NA;R;NA;NA;NA;S;NA;NA;NA
+758;2006/3399;22/12/2015  0;Sputum;Sputum;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+759;2009/6794;04/01/2017  0;Sputum;Sputum;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+757;2015/2241;26/06/2015  0;Sputum;Sputum;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;R;;NA;S;NA;S;S;NA;NA;S;NA;NA
+760;2016/1656;12/04/2016  0;Sputum;Sputum;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+756;2016/4564;17/04/2018  0;Sputum;Sputum;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+755;2018/1150;16/03/2018  0;Sputum;Sputum;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;R;S;R;S;NA;R;NA;S;S;NA;NA;S;NA;NA
+763;1999/A498;13/09/2017  0;Sputum;Sputum;S. pneumoniae;Streptococcus pneumoniae;Streptococcus pneumoniae;S;NA;S;NA;R;R;NA;NA;S;NA;S;NA;NA;NA;S;NA;NA
+762;2000/2712;18/05/2018  0;Sputum;Sputum;S. pneumoniae;Streptococcus pneumoniae;Streptococcus pneumoniae;S;NA;R;NA;S;S;NA;NA;S;NA;S;NA;NA;NA;S;NA;NA
+764;2002/5220;07/08/2017  0;Sputum;Sputum;S. pneumoniae;Streptococcus pneumoniae;Streptococcus pneumoniae;S;NA;S;NA;S;S;NA;NA;S;NA;S;NA;NA;NA;S;NA;NA
+765;2005/4484;31/10/2016  0;Sputum;Sputum;S. pneumoniae;Streptococcus pneumoniae;Streptococcus pneumoniae;R;NA;R;NA;S;R;NA;NA;S;NA;R;NA;NA;NA;S;NA;NA
+766;2011/0917;29/08/2017  0;Sputum;Sputum;S. pneumoniae;Streptococcus pneumoniae;Streptococcus pneumoniae;S;NA;R;NA;S;S;NA;NA;S;NA;S;NA;NA;NA;S;NA;NA
+761;2013/5447;14/03/2018  0;Sputum;Sputum;S. pneumoniae;Streptococcus pneumoniae;Streptococcus pneumoniae;S;NA;R;NA;S;S;NA;NA;S;NA;S;NA;NA;NA;S;NA;NA
+767;2002/4721;02/02/2016  0;Sputum;Sputum;Streptococcus species;Viridan streptococci;Viridan streptococci;NA;NA;R;NA;S;R;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+769;2013/3433;25/03/2018  0;Sputum;Sputum;Streptococcus species;Viridan streptococci;Viridan streptococci;NA;NA;R;NA;S;R;NA;NA;R;NA;NA;NA;NA;NA;S;NA;NA
+768;2015/3144;29/06/2016  0;Sputum;Sputum;Streptococcus species;Viridan streptococci;Viridan streptococci;NA;NA;S;NA;S;S;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+770;2015/2897;05/08/2015  0;Stool;Stool;Enterobacteriaceae;Shigella flexneri;Coliform species;NA;S;R;S;S;S;S;S;NA;NA;NA;NA;S;S;NA;S;NA
+771;2017/4110;14/10/2017  0;Stool;Stool;Enterobacteriaceae;Shigella flexneri;Coliform species;NA;R;R;S;S;R;S;S;NA;NA;NA;NA;S;S;NA;S;NA
+772;2017/0824;20/03/2017  0;Stool;Stool;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;S;R;S;R;S;R;NA;NA;NA;S;S;S;NA;S;NA
+774;2002/3202;31/08/2017  0;Stool;Stool;Enterobacteriaceae;Non-typhoidal Salmonella;Non-typhoidal Salmonella;NA;S;R;S;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+775;2005/3508;06/06/2017  0;Stool;Stool;Enterobacteriaceae;Non-typhoidal Salmonella;Non-typhoidal Salmonella;NA;S;S;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+776;2016/0551;02/02/2016  0;Stool;Stool;Enterobacteriaceae;Non-typhoidal Salmonella;Non-typhoidal Salmonella;NA;S;S;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+781;2016/1730;06/04/2016  0;Stool;Stool;Enterobacteriaceae;Non-typhoidal Salmonella;Non-typhoidal Salmonella;NA;R;R;S;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+777;2016/1781;17/08/2016  0;Stool;Stool;Enterobacteriaceae;Non-typhoidal Salmonella;Non-typhoidal Salmonella;NA;S;S;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+778;2016/2549;13/05/2016  0;Stool;Stool;Enterobacteriaceae;Non-typhoidal Salmonella;Non-typhoidal Salmonella;NA;S;S;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+779;2016/4247;17/08/2016  0;Stool;Stool;Enterobacteriaceae;Non-typhoidal Salmonella;Non-typhoidal Salmonella;NA;S;S;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+782;2016/4775;15/09/2016  0;Stool;Stool;Enterobacteriaceae;Non-typhoidal Salmonella;Non-typhoidal Salmonella;NA;S;S;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+773;2017/1082;03/04/2017  0;Stool;Stool;Enterobacteriaceae;Non-typhoidal Salmonella;Non-typhoidal Salmonella;NA;R;R;S;R;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+780;2017/1264;13/04/2017  0;Stool;Stool;Enterobacteriaceae;Non-typhoidal Salmonella;Non-typhoidal Salmonella;NA;R;R;S;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+783;2015/5168;29/09/2015  0;Swab;Swab;Other enterics; Acinetobacter baumanii; Acinetobacter baumanii;NA;R;R;R;R;R;R;R;NA;NA;NA;NA;R;R;NA;R;NA
+784;2018/6342;16/11/2018  0;Swab;Swab;Other enterics; Acinetobacter baumanii; Acinetobacter baumanii;NA;R;R;R;R;R;R;R;NA;NA;NA;NA;R;R;NA;R;NA
+858;2001/2909;31/05/2016  0;Swab;Swab;β-haemolytic streptococci;Streptococcus Group C; other β-haemolytic streptococci;S;S;NA;NA;R;R;NA;NA;S;NA;S;S;S;S;S;NA;NA
+859;2009/6806;09/03/2016  0;Swab;Swab;β-haemolytic streptococci;Streptococcus Group G; other β-haemolytic streptococci;S;S;NA;NA;S;R;NA;NA;S;NA;S;S;S;S;S;NA;NA
+860;2010/5796;27/02/2017  0;Swab;Swab;β-haemolytic streptococci;Streptococcus Group G; other β-haemolytic streptococci;S;S;NA;NA;S;S;NA;NA;S;NA;S;S;S;S;S;NA;NA
+861;2014/0864;02/06/2017  0;Swab;Swab;β-haemolytic streptococci;Streptococcus Group G; other β-haemolytic streptococci;S;S;NA;NA;S;S;NA;NA;S;NA;S;S;S;S;S;NA;NA
+788;2000/9489;02/06/2017  0;Swab;Swab;Enterobacteriaceae;Enterobacter aerogenes;Coliform species;NA;R;S;S;S;S;S;S;NA;NA;NA;NA;S;S;NA;R;NA
+789;2007/2656;05/04/2016  0;Swab;Swab;Enterobacteriaceae;Enterobacter cloacae;Coliform species;NA;R;S;R;S;R;R;S;NA;NA;NA;NA;S;S;NA;S;NA
+786;2010/7752;16/06/2017  0;Swab;Swab;Enterobacteriaceae;Citrobacter freundii;Coliform species;NA;R;S;S;S;S;S;S;NA;NA;NA;NA;R;S;NA;S;NA
+785;2013/0768;05/07/2018  0;Swab;Swab;Other enterics;Acromobater xylosoxidan;Coliform species;NA;S;S;S;S;S;S;R;NA;NA;NA;NA;R;S;NA;S;NA
+790;2014/0564;10/06/2015  0;Swab;Swab;Enterobacteriaceae;Enterobacter cloacae;Coliform species;NA;R;R;S;S;S;S;S;NA;NA;NA;NA;S;R;NA;S;NA
+787;2016/0939;23/02/2016  0;Swab;Swab;Enterobacteriaceae;Citrobacter koseri;Coliform species;NA;R;S;S;S;R;S;S;NA;NA;NA;NA;R;S;NA;S;NA
+791;2017/2562;19/07/2017  0;Swab;Swab;Enterobacteriaceae;Seratia marcescens;Coliform species;NA;S;S;S;S;S;S;R;NA;NA;NA;NA;S;S;NA;R;NA
+793;2003/2085;20/12/2016  0;Swab;Swab;Enterococcus spp;Enterococci species;Enterococcus species;S;S;NA;NA;S;S;S;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+796;2003/3832;30/11/2017  0;Swab;Swab;Enterococcus spp;Enterococcus species;Enterococcus species;R;S;NA;NA;S;S;S;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+794;2003/3892;19/01/2018  0;Swab;Swab;Enterococcus spp;Enterococcus species;Enterococcus species;S;S;NA;NA;S;;S;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+795;2004/5205;30/05/2016  0;Swab;Swab;Enterococcus spp;Enterococcus species;Enterococcus species;S;S;NA;NA;S;R;S;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+797;2008/4686;20/12/2017  0;Swab;Swab;Enterococcus spp;Enterococcus species;Enterococcus species;S;S;NA;NA;S;R;S;NA;R;NA;NA;NA;NA;NA;S;NA;NA
+798;2014/3425;22/12/2016  0;Swab;Swab;Enterococcus spp;Enterococcus species;Enterococcus species;R;R;NA;NA;R;R;R;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+792;2016/2365;23/06/2016  0;Swab;Swab;Enterococcus spp;Enterococci faecalis;Enterococcus species;S;S;NA;NA;R;R;R;NA;S;NA;NA;NA;NA;NA;NA;NA;NA
+799;2017/0659;29/03/2017  0;Swab;Swab;Enterococcus spp;Enterococcus species;Enterococcus species;R;S;NA;NA;R;R;S;NA;R;NA;NA;NA;NA;NA;S;NA;NA
+800;2018/0298;08/02/2018  0;Swab;Swab;Enterococcus spp;Enterococcus species;Enterococcus species;R;R;NA;NA;S;S;S;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+802;1987/4026;23/09/2017  0;Swab;Swab;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+803;1999/C177;02/10/2017  0;Swab;Swab;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;S;S;S;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+801;2004/5205;30/05/2016  0;Swab;Swab;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;R;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+804;2005/9191;19/05/2016  0;Swab;Swab;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;S;R;R;S;NA;NA;NA;S;S;S;NA;S;NA
+818;2010/7752;16/06/2017  0;Swab;Swab;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;R;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+805;2011/2100;19/11/2018  0;Swab;Swab;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;S;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+806;2013/0768;19/07/2018  0;Swab;Swab;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;S;S;R;R;R;S;NA;NA;NA;S;S;S;NA;S;NA
+819;2013/1378;04/10/2016  0;Swab;Swab;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;R;R;R;R;NA;NA;NA;S;R;R;NA;R;NA
+820;2015/1605;20/05/2015  0;Swab;Swab;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+821;2016/1311;11/03/2016  0;Swab;Swab;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;S;R;R;S;R;R;S;NA;NA;NA;S;S;S;NA;S;NA
+816;2016/2365;23/06/2016  0;Swab;Swab;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;S;R;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+817;2016/3501;14/03/2018  0;Swab;Swab;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+822;2016/4615;15/09/2016  0;Swab;Swab;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;S;R;R;S;NA;NA;NA;S;S;S;NA;S;NA
+823;2016/6637;13/02/2017  0;Swab;Swab;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;R;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+824;2017/1171;25/04/2017  0;Swab;Swab;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;S;R;S;R;NA;NA;NA;S;R;R;NA;R;NA
+825;2017/1660;24/05/2017  0;Swab;Swab;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;R;R;S;S;NA;NA;NA;NA;S;S;NA;S;NA
+807;2018/0438;28/02/2018  0;Swab;Swab;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;R;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+808;2018/0438;29/01/2018  0;Swab;Swab;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;S;R;S;R;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+809;2018/1230;29/03/2018  0;Swab;Swab;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;R;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+810;2018/1303;04/05/2018  0;Swab;Swab;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;S;S;R;S;S;R;NA;NA;NA;R;R;S;NA;S;NA
+811;2018/2925;18/06/2018  0;Swab;Swab;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+812;2018/3352;16/07/2018  0;Swab;Swab;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;S;S;S;S;NA;NA;NA;S;S;S;NA;R;NA
+813;2018/4408;30/08/2018  0;Swab;Swab;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+814;2018/4835;17/09/2018  0;Swab;Swab;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;S;R;S;S;NA;NA;NA;S;S;S;NA;R;NA
+815;2018/6787;11/12/2018  0;Swab;Swab;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;S;S;R;S;S;R;NA;NA;NA;R;R;R;NA;R;NA
+840;1982/0529;15/12/2015  0;Swab;Swab;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;S;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+832;2006/0397;06/12/2018  0;Swab;Swab;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;;R;R;R;R;NA;NA;NA;S;R;R;NA;S;NA
+833;2013/0768;19/07/2018  0;Swab;Swab;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;S;S;R;S;R;S;NA;NA;NA;S;S;S;NA;S;NA
+847;2016/1711;31/03/2016  0;Swab;Swab;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;S;R;R;S;R;NA;NA;NA;S;s;S;NA;S;NA
+839;2016/2365;23/06/2016  0;Swab;Swab;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;R;R;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+845;2016/3437;08/07/2016  0;Swab;Swab;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;S;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+834;2016/4060;31/08/2016  0;Swab;Swab;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;S;S;R;R;S;S;NA;NA;NA;S;S;S;NA;R;NA
+835;2016/6502;07/12/2016  0;Swab;Swab;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;R;R;R;R;R;NA;NA;NA;S;R;R;NA;S;NA
+836;2017/1786;18/05/2017  0;Swab;Swab;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;R;R;R;R;R;NA;NA;NA;S;R;R;NA;R;NA
+838;2017/2562;11/12/2017  0;Swab;Swab;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;R;R;S;R;R;NA;NA;NA;S;R;R;NA;S;NA
+846;2018/5848;25/10/2018  0;Swab;Swab;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;;S;R;R;S;NA;NA;NA;S;R;R;NA;S;NA
+837;2018/6812;12/12/2018  0;Swab;Swab;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;R;S;S;R;R;NA;NA;NA;S;R;R;NA;S;NA
+848;2017/0659;29/03/2017  0;Swab;Swab;Enterobacteriaceae;Klebsiella species;Klebsiella species;NA;S;R;S;S;S;S;R;NA;NA;NA;S;S;S;NA;S;NA
+850;2017/1171;06/05/2017  0;Swab;Swab;Enterobacteriaceae;Klebsiella species;Klebsiella species;NA;R;R;R;R;R;R;R;NA;NA;NA;S;R;R;NA;R;NA
+851;2017/2562;11/12/2017  0;Swab;Swab;Enterobacteriaceae;Klebsiella species;Klebsiella species;NA;R;S;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+852;2018/0672;14/03/2018  0;Swab;Swab;Enterobacteriaceae;Klebsiella species;Klebsiella species;NA;R;R;S;S;R;R;R;NA;NA;NA;S;S;S;NA;R;NA
+853;2018/0838;22/02/2018  0;Swab;Swab;Enterobacteriaceae;Klebsiella species;Klebsiella species;NA;R;S;S;S;S;S;R;NA;NA;NA;S;S;S;NA;S;NA
+854;2018/2848;12/06/2018  0;Swab;Swab;Enterobacteriaceae;Klebsiella species;Klebsiella species;NA;R;S;S;S;S;S;R;NA;NA;NA;S;S;S;NA;S;NA
+857;2018/6249;22/11/2018  0;Swab;Swab;Enterobacteriaceae;Non-typhoidal Salmonella;Non-typhoidal Salmonella;NA;S;S;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+863;2004/4975;29/03/2016  0;Swab;Swab;Streptococcus species;Streptococcus species;Other Streptococci;S;S;R;NA;S;R;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+864;2011/4343;24/08/2018  0;Swab;Swab;Streptococcus species;Streptococcus species;Other Streptococci;S;S;S;NA;S;S;NA;NA;R;NA;NA;NA;NA;NA;S;NA;NA
+865;2015/5674;06/06/2016  0;Swab;Swab;Streptococcus species;Streptococcus species;Other Streptococci;S;S;R;NA;S;S;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+866;2016/1548;22/03/2016  0;Swab;Swab;Streptococcus species;Streptococcus species;Other Streptococci;S;S;S;NA;S;S;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+867;2016/3838;04/08/2016  0;Swab;Swab;Streptococcus species;Streptococcus species;Other Streptococci;S;S;R;NA;S;R;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+868;2016/5271;07/10/2016  0;Swab;Swab;Streptococcus species;Streptococcus species;Other Streptococci;S;S;R;NA;S;R;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+862;2017/4877;17/11/2017  0;Swab;Swab;Streptococcus species;Streptococcus species;Other Streptococci;R;R;S;NA;S;S;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+877;1992/2584;17/08/2017  0;Swab;Swab;Enterobacteriaceae;Proteus species;Proteus species;NA;R;;S;R;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+878;2000/6708;26/06/2018  0;Swab;Swab;Enterobacteriaceae;Proteus species;Proteus species;NA;R;R;S;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+879;2002/4632;23/12/2015  0;Swab;Swab;Enterobacteriaceae;Proteus species;Proteus species;NA;S;S;S;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+880;2005/5151;03/08/2017  0;Swab;Swab;Enterobacteriaceae;Proteus species;Proteus species;NA;S;R;S;R;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+870;2014/2390;15/10/2015  0;Swab;Swab;Enterobacteriaceae;Proteus mirabilis;Proteus species;NA;S;S;S;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+869;2014/4716;12/03/2015  0;Swab;Swab;Enterobacteriaceae;Proteus mirabilis;Proteus species;NA;R;R;;R;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+871;2015/0208;21/07/2015  0;Swab;Swab;Enterobacteriaceae;Proteus mirabilis;Proteus species;NA;R;R;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+881;2015/3561;13/07/2015  0;Swab;Swab;Enterobacteriaceae;Proteus species;Proteus species;NA;S;R;S;R;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+872;2015/3843;05/08/2015  0;Swab;Swab;Enterobacteriaceae;Proteus mirabilis;Proteus species;NA;S;S;S;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+882;2015/6937;31/12/2015  0;Swab;Swab;Enterobacteriaceae;Proteus species;Proteus species;NA;R;R;S;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+895;2016/1711;31/03/2016  0;Swab;Swab;Enterobacteriaceae;Proteus species;Proteus species;NA;S;R;S;R;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+883;2016/1939;16/03/2017  0;Swab;Swab;Enterobacteriaceae;Proteus species;Proteus species;NA;S;S;S;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+875;2016/3501;14/03/2018  0;Swab;Swab;Enterobacteriaceae;Proteus species;Proteus species;NA;R;S;;R;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+884;2016/3871;19/06/2018  0;Swab;Swab;Enterobacteriaceae;Proteus species;Proteus species;NA;S;S;S;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+885;2016/5349;15/10/2018  0;Swab;Swab;Enterobacteriaceae;Proteus species;Proteus species;NA;R;S;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+886;2016/5410;14/10/2016  0;Swab;Swab;Enterobacteriaceae;Proteus species;Proteus species;NA;R;S;S;S;R;S;S;NA;NA;NA;S;S;S;NA;R;NA
+887;2017/0120;20/02/2017  0;Swab;Swab;Enterobacteriaceae;Proteus species;Proteus species;NA;R;R;S;R;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+888;2017/0731;15/05/2017  0;Swab;Swab;Enterobacteriaceae;Proteus species;Proteus species;NA;R;R;R;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+873;2017/2301;05/09/2017  0;Swab;Swab;Enterobacteriaceae;Proteus mirabilis;Proteus species;NA;S;S;S;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+889;2017/2301;12/12/2018  0;Swab;Swab;Enterobacteriaceae;Proteus species;Proteus species;NA;S;R;S;R;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+876;2017/2562;31/08/2017  0;Swab;Swab;Enterobacteriaceae;Proteus species;Proteus species;NA;R;S;S;S;S;S;R;NA;NA;NA;S;S;S;NA;S;NA
+890;2018/0610;08/02/2018  0;Swab;Swab;Enterobacteriaceae;Proteus species;Proteus species;NA;R;R;S;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+891;2018/1610;16/04/2018  0;Swab;Swab;Enterobacteriaceae;Proteus species;Proteus species;NA;R;R;S;R;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+892;2018/3729;09/08/2018  0;Swab;Swab;Enterobacteriaceae;Proteus species;Proteus species;NA;S;S;S;S;S;S;S;NA;NA;NA;R;S;S;NA;S;NA
+893;2018/4158;14/08/2018  0;Swab;Swab;Enterobacteriaceae;Proteus species;Proteus species;NA;S;S;S;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+894;2018/6193;16/11/2018  0;Swab;Swab;Enterobacteriaceae;Proteus species;Proteus species;NA;R;R;S;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+899;2000/A661;13/05/2016  0;Swab;Swab;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+900;2004/7877;03/09/2015  0;Swab;Swab;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;R;NA;NA;NA;S;NA;NA;NA
+901;2004/7877;10/10/2017  0;Swab;Swab;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+902;2008/3912;06/12/2017  0;Swab;Swab;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;R;NA;NA;R;NA;NA;S;NA;NA;NA;R;NA;NA;NA
+903;2008/3912;31/10/2017  0;Swab;Swab;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+904;2008/3912;21/11/2017  0;Swab;Swab;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;R;NA;NA;R;NA;NA;S;NA;NA;NA;R;NA;NA;NA
+905;2008/7673;26/08/2015  0;Swab;Swab;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+906;2009/0531;01/02/2018  0;Swab;Swab;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;R;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+907;2009/4247;12/10/2015  0;Swab;Swab;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+908;2010/4679;29/08/2016  0;Swab;Swab;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+909;2010/5680;03/07/2018  0;Swab;Swab;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;R;NA;NA;R;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+910;2011/2416;16/03/2016  0;Swab;Swab;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+911;2011/3588;07/10/2015  0;Swab;Swab;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+912;2012/0682;04/07/2017  0;Swab;Swab;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+913;2013/0476;14/03/2017  0;Swab;Swab;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;R;NA;NA;R;NA;NA;S;NA;NA;NA;R;NA;NA;NA
+914;2013/2113;29/05/2017  0;Swab;Swab;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+915;2015/2296;04/05/2015  0;Swab;Swab;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;;NA;NA;NA
+916;2015/3423;14/08/2017  0;Swab;Swab;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+898;2015/5404;12/10/2015  0;Swab;Swab;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;R;NA;NA;S;NA;NA;R;NA;NA;NA;S;NA;NA;NA
+917;2015/5517;22/10/2015  0;Swab;Swab;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;R;NA;NA;R;NA;NA;S;NA;NA;NA;R;NA;NA;NA
+896;2016/0421;03/05/2018  0;Swab;Swab;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;R;NA;NA;R;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+918;2016/1158;24/03/2016  0;Swab;Swab;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+919;2016/3315;27/06/2016  0;Swab;Swab;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+920;2016/3838;25/08/2016  0;Swab;Swab;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+921;2016/4032;14/10/2016  0;Swab;Swab;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+922;2016/4184;19/08/2016  0;Swab;Swab;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+923;2016/5406;20/08/2018  0;Swab;Swab;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+924;2017/1312;19/04/2017  0;Swab;Swab;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+925;2017/2402;07/07/2017  0;Swab;Swab;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+926;2017/2562;01/08/2017  0;Swab;Swab;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+927;2017/3512;15/09/2017  0;Swab;Swab;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+928;2017/3612;07/08/2018  0;Swab;Swab;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+929;2017/4766;13/11/2017  0;Swab;Swab;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+930;2017/4836;15/11/2017  0;Swab;Swab;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+931;2018/0400;26/01/2018  0;Swab;Swab;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+932;2018/1033;27/06/2018  0;Swab;Swab;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;R;NA;NA;R;NA;NA;S;NA;NA;NA;R;NA;NA;NA
+933;2018/1763;06/08/2018  0;Swab;Swab;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+934;2018/2136;02/05/2018  0;Swab;Swab;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+897;2018/3759;06/08/2018  0;Swab;Swab;P. aeruginosa;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+937;5312018;19/12/2018  0;Swab;Swab;pseudomonadaceae;Pseudomonas species;Pseudomonas species;NA;S;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+939;2009/0531;02/11/2017  0;Swab;Swab;pseudomonadaceae;Pseudomonas species;Pseudomonas species;NA;;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+940;2014/3243;23/07/2015  0;Swab;Swab;pseudomonadaceae;Pseudomonas species;Pseudomonas species;NA;;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+941;2014/7154;28/04/2016  0;Swab;Swab;pseudomonadaceae;Pseudomonas species;Pseudomonas species;NA;;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+935;2015/1893;09/04/2015  0;Swab;Swab;pseudomonadaceae;Pseudomonas fluorescens;Pseudomonas species;NA;NA;NA;R;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+942;2015/3396;03/07/2015  0;Swab;Swab;pseudomonadaceae;Pseudomonas species;Pseudomonas species;NA;;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+936;2015/4570;27/08/2015  0;Swab;Swab;pseudomonadaceae;Pseudomonas fluorescens;Pseudomonas species;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+943;2015/6200;19/11/2015  0;Swab;Swab;pseudomonadaceae;Pseudomonas species;Pseudomonas species;NA;;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+944;2015/6219;25/11/2016  0;Swab;Swab;pseudomonadaceae;Pseudomonas species;Pseudomonas species;NA;;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+945;2016/1146;04/03/2016  0;Swab;Swab;pseudomonadaceae;Pseudomonas species;Pseudomonas species;NA;;NA;R;NA;NA;S;NA;NA;R;NA;NA;NA;S;NA;NA;NA
+952;2016/1984;14/04/2016  0;Swab;Swab;Enterobacteriaceae;Raoultella ornithinolytica;Pseudomonas species;NA;R;NA;S;S;R;S;NA;NA;S;NA;NA;S;S;NA;S;NA
+946;2016/2760;27/05/2016  0;Swab;Swab;pseudomonadaceae;Pseudomonas species;Pseudomonas species;NA;S;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+947;2016/6364;05/12/2016  0;Swab;Swab;pseudomonadaceae;Pseudomonas species;Pseudomonas species;NA;;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+951;2017/0990;29/03/2017  0;Swab;Swab;pseudomonadaceae;Pseudomonas species;Pseudomonas species;NA;;NA;R;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+948;2017/4415;27/10/2017  0;Swab;Swab;pseudomonadaceae;Pseudomonas species;Pseudomonas species;NA;;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+949;2018/2510;29/08/2018  0;Swab;Swab;pseudomonadaceae;Pseudomonas species;Pseudomonas species;NA;;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+950;2018/2615;28/06/2018  0;Swab;Swab;pseudomonadaceae;Pseudomonas species;Pseudomonas species;NA;R;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;NA
+938;N/A;08/07/2016  0;Swab;Swab;pseudomonadaceae;Pseudomonas species;Pseudomonas species;NA;;NA;S;NA;NA;S;NA;NA;R;NA;NA;NA;S;NA;NA;NA
+968;1965/8783;15/06/2015  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+969;1965/8783;12/08/2015  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+970;1981/0318;16/03/2017  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;S;S;NA;R;NA;S;S;NA;NA;S;NA;NA
+971;1983/2274;01/02/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+972;1988/2171;18/07/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;S;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+966;1989/2592;07/09/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+973;1996/1473;01/07/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+974;1998/9300;09/11/2015  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+975;1999/2762;25/10/2017  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;S;S;;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+976;1999/8943;04/04/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+977;1999/D130;22/11/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;S;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+978;2000/5908;12/10/2015  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;R;R;NA;S;NA;R;R;NA;NA;S;NA;NA
+979;2000/A114;16/04/2015  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+980;2001/1374;21/06/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+981;2002/0389;17/08/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+982;2003/4010;16/07/2015  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;R;S;S;S;;NA;S;NA;S;S;NA;NA;S;NA;NA
+983;2003/4215;12/06/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+984;2003/6957;13/12/2017  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;R;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+985;2003/6957;28/12/2017  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+986;2004/2253;16/06/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+987;2004/3721;23/02/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+988;2004/5718;01/11/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+989;2005/7614;28/11/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;R;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+990;2005/8198;22/11/2017  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;R;S;S;NA;R;NA;S;S;NA;NA;S;NA;NA
+991;2006/1631;13/04/2015  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;;NA;S;NA;S;S;NA;NA;S;NA;NA
+992;2007/2000;17/11/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+993;2007/2486;22/06/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+994;2007/4447;23/06/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+995;2007/5346;05/09/2017  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+996;2007/6506;09/06/2017  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+997;2008/2898;16/01/2017  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+998;2008/3952;10/09/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+999;2008/7343;20/10/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1000;2009/7816;05/02/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;S;S;NA;R;NA;S;S;NA;NA;S;NA;NA
+1001;2009/7946;16/11/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1002;2010/4182;09/05/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;;NA;S;NA;S;S;NA;NA;S;NA;NA
+1003;2011/3576;16/02/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;R;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1004;2011/4395;02/09/2015  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;R;S;S;S;;NA;S;NA;S;S;NA;NA;S;NA;NA
+1005;2011/5391;04/10/2017  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1006;2012/5230;18/10/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1007;2013/0163;21/05/2015  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1008;2013/0711;01/06/2015  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1009;2013/1776;10/08/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;S;R;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1010;2013/2659;13/09/2017  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1011;2013/4902;15/10/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1012;2013/5215;02/08/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1013;2013/6165;05/11/2015  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1014;2014/0864;25/04/2017  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;R;S;NA;R;NA;S;S;NA;NA;S;NA;NA
+1015;2014/2112;02/06/2015  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1016;2014/2780;04/07/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1017;2014/4373;15/06/2015  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1018;2015/1010;11/03/2015  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;;S;S;S;NA;;NA;S;S;NA;NA;S;NA;NA
+1019;2015/1152;15/10/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1020;2015/1165;15/04/2015  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;S;R;NA;S;NA;S;S;NA;NA;S;NA;NA
+1021;2015/2042;17/04/2015  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1022;2015/2048;20/04/2015  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;;NA;S;NA;S;S;NA;NA;S;NA;NA
+1023;2015/2519;29/05/2015  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1024;2015/3423;12/06/2017  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;R;;NA;S;NA;S;S;NA;NA;S;NA;NA
+1025;2015/3516;09/08/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;R;S;S;S;S;NA;R;NA;S;S;NA;NA;S;NA;NA
+1026;2015/3641;20/07/2015  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;R;NA;S;NA;S;S;NA;NA;S;NA;NA
+1027;2015/4012;05/08/2015  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;R;;NA;S;NA;S;S;NA;NA;S;NA;NA
+1028;2015/4366;19/08/2015  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;;S;S;S;;NA;S;NA;S;S;NA;NA;S;NA;NA
+1029;2015/4895;14/09/2015  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1030;2015/5351;30/06/2017  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;R;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1031;2015/6018;20/07/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;R;NA;S;S;NA;NA;S;NA;NA
+962;2015/6745;04/01/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1032;2015/6801;21/12/2015  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1033;2016/0421;19/04/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;S;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1034;2016/0939;01/04/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+958;2016/1311;11/03/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;R;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1035;2016/1352;03/09/2017  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1036;2016/1945;12/04/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1037;2016/2226;04/05/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1038;2016/2229;09/05/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1039;2016/2562;16/05/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;R;S;NA;R;NA;S;S;NA;NA;S;NA;NA
+965;2016/2687;10/09/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;R;NA;S;S;NA;NA;S;NA;NA
+1040;2016/3027;10/06/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1041;2016/3440;08/07/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;R;NA;S;S;NA;NA;S;NA;NA
+957;2016/3501;14/03/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1042;2016/4143;11/08/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1043;2016/4355;23/08/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;S;S;S;S;S;NA;R;NA;S;S;NA;NA;S;NA;NA
+1044;2016/4666;06/09/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1045;2016/5202;05/10/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+953;2016/5227;06/10/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1046;2016/5496;18/10/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1047;2016/5542;20/10/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;R;S;R;R;NA;S;NA;S;S;NA;NA;S;NA;NA
+1048;2016/5674;18/11/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1049;2016/5888;03/11/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1050;2016/5964;09/11/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1051;2016/6167;17/11/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1052;2016/6180;17/11/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;R;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+964;2016/6619;15/12/2016  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;R;S;R;R;NA;R;NA;R;R;NA;NA;S;NA;NA
+959;2016/6637;13/02/2017  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1053;2016/6775;19/07/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1054;2017/0019;11/01/2017  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1055;2017/0184;09/02/2017  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1056;2017/0472;28/02/2017  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1057;2017/0652;10/03/2017  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1058;2017/0734;29/03/2017  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;R;S;R;S;NA;R;NA;S;S;NA;NA;S;NA;NA
+1059;2017/1141;05/04/2017  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1060;2017/1547;05/06/2017  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;R;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1061;2017/1705;15/05/2017  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;R;NA;S;S;NA;NA;S;NA;NA
+1062;2017/2401;05/02/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1063;2017/2430;10/07/2017  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1064;2017/2520;18/08/2017  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1065;2017/2816;03/08/2017  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1066;2017/2856;03/10/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1067;2017/3029;13/09/2017  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1068;2017/3156;24/08/2017  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1069;2017/3618;20/09/2017  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1070;2017/3918;05/10/2017  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1071;2017/4085;13/10/2017  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1072;2017/4528;02/11/2017  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1073;2017/4541;01/11/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+961;2017/4595;03/11/2017  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1074;2017/4877;17/11/2017  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+954;2017/5015;21/03/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1075;2017/5351;13/12/2017  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;R;S;S;S;R;NA;S;NA;S;S;NA;NA;S;NA;NA
+1076;2017/5393;16/12/2017  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;S;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1077;2017/5438;19/12/2017  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1078;2017/5545;27/12/2017  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;R;;R;NA;S;NA;S;S;NA;NA;S;NA;NA
+1079;2018/0112;10/01/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;R;;R;R;S;NA;R;NA;S;S;NA;NA;S;NA;NA
+1080;2018/0344;23/01/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1081;2018/0863;23/02/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1082;2018/1005;03/10/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1083;2018/1117;12/03/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1084;2018/1505;28/03/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1085;2018/2172;05/05/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+963;2018/2542;03/07/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;S;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1086;2018/2635;29/06/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1087;2018/2685;04/06/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1088;2018/2751;07/06/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;;NA;S;S;NA;NA;S;NA;NA
+1089;2018/2790;11/06/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1090;2018/2822;11/06/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;;NA;S;NA;S;S;NA;NA;S;NA;NA
+960;2018/2848;12/06/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1091;2018/3061;25/06/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+967;2018/3325;04/07/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;R;NA;S;S;NA;NA;S;NA;NA
+955;2018/3886;01/08/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;S;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1092;2018/4148;14/08/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+956;2018/4408;30/08/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1093;2018/4612;06/09/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1094;2018/5111;27/09/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1095;2018/5416;11/10/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1096;2018/5686;19/10/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1097;2018/5766;24/10/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;R;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1098;2018/5835;27/10/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1099;2018/6109;07/11/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;S;S;S;NA;R;NA;S;S;NA;NA;S;NA;NA
+1100;2018/7062;29/12/2018  0;Swab;Swab;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;S;S;S;NA;S;NA;S;S;NA;NA;S;NA;NA
+1105;1999/1417;13/07/2017  0;Swab;Swab;β-haemolytic streptococci;Streptococcus agalactiae (GBS);Streptococcus agalactiae (GBS);S;S;NA;NA;S;S;NA;NA;S;NA;S;S;S;S;S;NA;NA
+1106;2000/A661;15/07/2016  0;Swab;Swab;β-haemolytic streptococci;Streptococcus agalactiae (GBS);Streptococcus agalactiae (GBS);S;S;NA;NA;S;R;NA;NA;S;NA;S;S;S;S;S;NA;NA
+1107;2005/6059;06/10/2017  0;Swab;Swab;β-haemolytic streptococci;Streptococcus agalactiae (GBS);Streptococcus agalactiae (GBS);S;S;NA;NA;S;S;NA;NA;S;NA;S;S;S;S;S;NA;NA
+1108;2009/2711;13/03/2018  0;Swab;Swab;β-haemolytic streptococci;Streptococcus agalactiae (GBS);Streptococcus agalactiae (GBS);S;S;NA;NA;S;R;NA;NA;S;NA;S;S;S;S;S;NA;NA
+1112;2013/3116;28/07/2016  0;Swab;Swab;β-haemolytic streptococci;Streptococcus agalactiae (GBS);Streptococcus agalactiae (GBS);S;S;NA;NA;S;S;NA;NA;S;NA;S;S;S;S;S;NA;NA
+1109;2016/1372;15/03/2016  0;Swab;Swab;β-haemolytic streptococci;Streptococcus agalactiae (GBS);Streptococcus agalactiae (GBS);S;S;NA;NA;S;R;NA;NA;S;NA;S;S;S;S;S;NA;NA
+1104;2017/2282;28/06/2017  0;Swab;Swab;β-haemolytic streptococci;Streptococcus agalactiae (GBS);Streptococcus agalactiae (GBS);S;S;NA;NA;S;R;NA;NA;S;NA;S;S;S;S;S;NA;NA
+1110;2018/4295;27/08/2018  0;Swab;Swab;β-haemolytic streptococci;Streptococcus agalactiae (GBS);Streptococcus agalactiae (GBS);S;S;NA;NA;S;S;NA;NA;S;NA;S;S;S;S;S;NA;NA
+1118;1996/3166;18/11/2016  0;Swab;Swab;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;R;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1119;2003/4160;17/06/2016  0;Swab;Swab;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;R;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1120;2004/5791;04/10/2017  0;Swab;Swab;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;R;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1121;2005/5735;05/07/2017  0;Swab;Swab;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;R;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1122;2005/8342;14/07/2017  0;Swab;Swab;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;R;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1123;2007/0810;14/03/2016  0;Swab;Swab;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;R;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1124;2007/2656;07/06/2017  0;Swab;Swab;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;S;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1125;2009/5638;21/05/2018  0;Swab;Swab;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;R;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1126;2010/3323;02/02/2016  0;Swab;Swab;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;S;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1127;2011/2110;07/12/2017  0;Swab;Swab;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;R;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1152;2011/3933;28/09/2018  0;Swab;Swab;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;R;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1153;2012/5136;03/03/2017  0;Swab;Swab;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;S;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1128;2013/0382;02/11/2016  0;Swab;Swab;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;R;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1129;2013/3433;20/06/2018  0;Swab;Swab;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;R;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1130;2015/1173;16/06/2016  0;Swab;Swab;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;R;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1154;2015/2285;02/01/2018  0;Swab;Swab;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;R;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1131;2015/3097;10/08/2015  0;Swab;Swab;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;S;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1132;2015/3941;03/08/2015  0;Swab;Swab;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;R;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1133;2015/4165;11/08/2015  0;Swab;Swab;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;R;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1134;2015/6521;21/04/2016  0;Swab;Swab;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;R;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1135;2016/1091;16/08/2017  0;Swab;Swab;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;R;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1136;2016/1425;12/05/2016  0;Swab;Swab;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;R;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1137;2016/2166;10/06/2016  0;Swab;Swab;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;R;R;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1138;2016/2281;03/05/2016  0;Swab;Swab;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;S;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1139;2016/6197;18/11/2016  0;Swab;Swab;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;R;R;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1140;2017/0194;09/02/2017  0;Swab;Swab;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;S;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1141;2017/0336;28/02/2017  0;Swab;Swab;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;S;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1142;2017/3792;28/09/2017  0;Swab;Swab;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;R;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1143;2017/4211;18/10/2017  0;Swab;Swab;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;R;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1144;2018/0358;06/02/2018  0;Swab;Swab;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;R;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1145;2018/2262;22/05/2018  0;Swab;Swab;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;R;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1146;2018/2971;19/06/2018  0;Swab;Swab;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;S;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1147;2018/3112;26/06/2018  0;Swab;Swab;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;R;S;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1148;2018/4331;28/08/2018  0;Swab;Swab;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;R;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1149;2018/6517;27/11/2018  0;Swab;Swab;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;R;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1155;2018/6524;28/11/2018  0;Swab;Swab;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;S;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1150;2018/6949;19/12/2018  0;Swab;Swab;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;S;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1151;2018/6953;19/12/2018  0;Swab;Swab;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;R;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1156;2003/8259;23/06/2015  0;Swab;Swab;Streptococcus species;Viridan streptococci;Viridan streptococci;NA;NA;R;NA;S;S;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1157;2007/3910;14/08/2018  0;Swab;Swab;Streptococcus species;Viridan streptococci;Viridan streptococci;NA;NA;S;NA;S;R;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1158;2013/2513;14/08/2018  0;Swab;Swab;Streptococcus species;Viridan streptococci;Viridan streptococci;NA;NA;S;NA;S;R;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1159;2015/4485;25/08/2015  0;Swab;Swab;Streptococcus species;Viridan streptococci;Viridan streptococci;NA;NA;S;NA;S;R;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1160;2017/2321;23/01/2018  0;Swab;Swab;Streptococcus species;Viridan streptococci;Viridan streptococci;NA;NA;R;NA;S;R;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+826;2007/3219;04/10/2017  0;Swab/EENT;Swab;Haemophilus spp;Haemophilus influenzae non-type b;Haemophilus influenzae non-type b;NA;S;R;NA;S;S;S;S;NA;NA;NA;NA;S;S;NA;S;NA
+827;2007/4455;12/04/2017  0;Swab/EENT;Swab;Haemophilus spp;Haemophilus influenzae non-type b;Haemophilus influenzae non-type b;NA;S;R;NA;S;S;S;S;NA;NA;NA;NA;S;S;NA;S;NA
+828;2010/4607;12/04/2017  0;Swab/EENT;Swab;Haemophilus spp;Haemophilus influenzae non-type b;Haemophilus influenzae non-type b;NA;S;R;NA;S;S;S;S;NA;NA;NA;NA;S;S;NA;S;NA
+829;2017/0336;20/02/2017  0;Swab/EENT;Swab;Haemophilus spp;Haemophilus influenzae non-type b;Haemophilus influenzae non-type b;NA;S;R;NA;S;S;S;S;NA;NA;NA;NA;S;S;NA;S;NA
+830;2017/2301;21/09/2017  0;Swab/EENT;Swab;Haemophilus spp;Haemophilus influenzae non-type b;Haemophilus influenzae non-type b;NA;S;R;NA;S;S;S;S;NA;NA;NA;NA;S;S;NA;S;NA
+831;2014/2913;07/06/2018  0;Swab/EENT;Swab;Haemophilus spp;Haemophilus parainfluenzae;Haemophilus spp;NA;S;R;NA;S;R;S;S;NA;NA;NA;NA;S;S;NA;S;NA
+841;2000/A114;28/07/2015  0;Swab/EENT;Swab;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;S;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+842;2015/1994;15/04/2015  0;Swab/EENT;Swab;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;S;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+843;2015/6797;21/12/2015  0;Swab/EENT;Swab;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;S;S;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+844;2016/3135;16/06/2016  0;Swab/EENT;Swab;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;R;S;R;S;S;NA;NA;NA;S;S;S;NA;S;NA
+849;2013/3021;24/04/2018  0;Swab/EENT;Swab;Enterobacteriaceae;Klebsiella species;Klebsiella species;NA;R;R;R;S;R;R;R;NA;NA;NA;S;R;R;NA;R;NA
+856;2004/8724;04/09/2018  0;Swab/EENT;Swab;Neisseria spp;Neisseria species;Neisseria species;S;S;S;NA;S;S;S;S;NA;NA;NA;S;S;S;NA;NA;NA
+855;2016/6529;28/12/2018  0;Swab/EENT;Swab;Other Non-enterics;Moraxella catarrhalis;Neisseria species;S;S;R;NA;S;S;S;S;NA;NA;NA;S;S;S;NA;S;NA
+874;2018/5484;12/10/2018  0;Swab/EENT;Swab;Enterobacteriaceae;Proteus mirabilis;Proteus species;NA;R;R;R;R;R;R;S;NA;NA;NA;S;S;S;NA;S;NA
+1113;2015/5320;08/02/2017  0;Swab/EENT;Swab;S. pneumoniae;Streptococcus pneumoniae;Streptococcus pneumoniae;S;NA;R;NA;S;S;NA;NA;S;NA;S;NA;NA;NA;S;NA;NA
+1114;2016/2629;20/05/2016  0;Swab/EENT;Swab;S. pneumoniae;Streptococcus pneumoniae;Streptococcus pneumoniae;S;NA;R;NA;R;R;NA;NA;S;NA;S;NA;NA;NA;S;NA;NA
+1115;2017/3631;19/12/2017  0;Swab/EENT;Swab;S. pneumoniae;Streptococcus pneumoniae;Streptococcus pneumoniae;R;NA;R;NA;S;R;NA;NA;S;NA;S;NA;NA;NA;S;NA;NA
+1116;2017/4881;17/11/2017  0;Swab/EENT;Swab;S. pneumoniae;Streptococcus pneumoniae;Streptococcus pneumoniae;S;NA;S;NA;S;S;NA;NA;S;NA;S;NA;NA;NA;S;NA;NA
+1117;2015/4967;19/10/2015  0;Swab/EENT;Swab;β-haemolytic streptococci;Streptococcus pyogenes;Streptococcus pyogenes;S;S;NA;NA;S;R;NA;NA;S;NA;NA;NA;NA;NA;S;NA;NA
+1161;2002/7086;10/11/2017  0;Swab/Urovaginal;Swab;Neisseria spp;Neisseria gonorrhoeae;Neisseria gonorrhoeae;S;S;S;NA;S;R;R;S;NA;NA;NA;S;S;S;NA;NA;NA
+1162;2015/6330;26/11/2016  0;Swab/Urovaginal;Swab;Neisseria spp;Neisseria gonorrhoeae;Neisseria gonorrhoeae;S;S;S;NA;S;R;S;S;NA;NA;NA;S;S;S;NA;NA;NA
+1163;2017/4750;13/11/2017  0;Swab/Urovaginal;Swab;Neisseria spp;Neisseria gonorrhoeae;Neisseria gonorrhoeae;S;S;S;NA;S;R;S;S;NA;NA;NA;S;S;S;NA;NA;NA
+1103;1985/7522;03/10/2018  0;Swab/Urovaginal;Swab;β-haemolytic streptococci;Streptococcus agalactiae (GBS);Streptococcus agalactiae (GBS);S;S;NA;NA;S;S;NA;NA;S;NA;S;S;S;S;S;NA;NA
+1102;2009/3572;06/02/2018  0;Swab/Urovaginal;Swab;β-haemolytic streptococci;Streptococcus agalactiae (GBS);Streptococcus agalactiae (GBS);S;S;NA;NA;S;R;NA;NA;S;NA;S;S;S;S;S;NA;NA
+1101;2017/4881;17/11/2017  0;Swab/Urovaginal;Swab;β-haemolytic streptococci;Streptococcus agalactiae (GBS);Streptococcus agalactiae (GBS);S;S;NA;NA;S;R;NA;NA;S;NA;S;S;S;S;S;NA;NA
+1111;2018/5402;09/10/2018  0;Swab/Urovaginal;Swab;β-haemolytic streptococci;Streptococcus agalactiae (GBS);Streptococcus agalactiae (GBS);S;S;NA;NA;S;S;NA;NA;S;NA;S;S;S;S;S;NA;NA
+238;2016/2050;19/04/2016;Urine;Urine;pseudomonadaceae;Acinetobacter baumanii; Acinetobacter baumanii;NA;R;S;S;NA;S;S;S;NA;NA;NA;NA;S;S;NA;S;S
+239;2016/2077;19/04/2016;Urine;Urine;pseudomonadaceae;Acinetobacter baumanii; Acinetobacter baumanii;NA;R;S;S;NA;s;S;S;NA;NA;NA;NA;S;S;NA;S;S
+240;2018/0298;05/04/2018;Urine;Urine;pseudomonadaceae;Bukholderia cepacia;Bukholderia cepacia;NA;NA;S;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;S;NA;NA;S
+241;2018/0298;10/04/2018;Urine;Urine;pseudomonadaceae;Bukholderia cepacia;Bukholderia cepacia;NA;NA;S;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;S;NA;NA;S
+257;60335;23/10/2017;Urine;Urine;Candida Species;Candida species;Candida species;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+254;60420;18/12/2017;Urine;Urine;Candida Species;Candida species;Candida species;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+250;2011/0675;14/02/2017;Urine;Urine;Candida Species;Candida species;Candida species;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+259;2012/4510;01/10/2017;Urine;Urine;Candida Species;Candida species;Candida species;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+260;2014/4441;28/08/2017;Urine;Urine;Candida Species;Candida species;Candida species;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+256;2015/5402;18/11/2017;Urine;Urine;Candida Species;Candida species;Candida species;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+261;2017/0328;26/07/2017;Urine;Urine;Candida Species;Candida species;Candida species;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+248;2017/0700;29/03/2017;Urine;Urine;Candida Species;Candida species;Candida species;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+247;2017/1824;07/12/2017;Urine;Urine;Candida Species;Candida species;Candida species;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+262;2017/2003;12/06/2017;Urine;Urine;Candida Species;Candida species;Candida species;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+253;2017/2021;07/06/2017;Urine;Urine;Candida Species;Candida species;Candida species;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+266;2017/2037;23/06/2017;Urine;Urine;Candida Species;Candida species;Candida species;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+263;2017/2106;13/06/2017;Urine;Urine;Candida Species;Candida species;Candida species;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+264;2017/2175;16/06/2017;Urine;Urine;Candida Species;Candida species;Candida species;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+265;2017/2272;24/06/2017;Urine;Urine;Candida Species;Candida species;Candida species;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+252;2017/2813;03/08/2017;Urine;Urine;Candida Species;Candida species;Candida species;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+258;2017/4993;23/11/2017;Urine;Urine;Candida Species;Candida species;Candida species;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+249;2017/5184;05/12/2017;Urine;Urine;Candida Species;Candida species;Candida species;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+251;2017/5337;13/12/2017;Urine;Urine;Candida Species;Candida species;Candida species;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+255;M757D;20/11/2017;Urine;Urine;Candida Species;Candida species;Candida species;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+242;N/A;12/12/2017;Urine;Urine;Candida Species;Candida species;Candida species;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+243;N/A;12/12/2017;Urine;Urine;Candida Species;Candida species;Candida species;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+244;N/A;12/12/2017;Urine;Urine;Candida Species;Candida species;Candida species;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+245;N/A;07/12/2017;Urine;Urine;Candida Species;Candida species;Candida species;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+246;N/A;07/12/2017;Urine;Urine;Candida Species;Candida species;Candida species;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+267;N/A;21/06/2017;Urine;Urine;Candida Species;Candida species;Candida species;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+294;1501-1390-01;27/06/2018;Urine;Urine;Enterobacteriaceae;Coliform species;Coliform species;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;R;S
+280;1501-1408-01;;Urine;Urine;Enterobacteriaceae;Coliform species;Coliform species;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+297;1963/0001;23/01/2017;Urine;Urine;Enterobacteriaceae;Enterobacter cloacae;Coliform species;NA;R;S;R;NA;S;S;R;NA;NA;NA;R;S;R;NA;R;S
+293;1974/8805;04/05/2017;Urine;Urine;Enterobacteriaceae;Coliform species;Coliform species;NA;R;R;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+291;1982/3506;22/11/2018;Urine;Urine;Enterobacteriaceae;Coliform species;Coliform species;NA;R;S;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+278;2005/2937;15/11/2018;Urine;Urine;Enterobacteriaceae;Coliform species;Coliform species;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+268;2011/2643;01/09/2017;Urine;Urine;Enterobacteriaceae;Citrobacter koser;Coliform species;NA;R;S;S;NA;S;S;S;NA;NA;NA;;S;S;NA;S;S
+288;2014/3243;08/06/2018;Urine;Urine;Enterobacteriaceae;Coliform species;Coliform species;NA;R;R;s;NA;R;S;S;NA;NA;NA;S;S;S;NA;R;S
+273;2016/3235;05/07/2018;Urine;Urine;Enterobacteriaceae;Coliform species;Coliform species;NA;R;R;S;NA;R;S;R;NA;NA;NA;S;S;S;NA;R;S
+281;2016/3235;18/07/2018;Urine;Urine;Enterobacteriaceae;Coliform species;Coliform species;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;R;S
+296;2016/4824;19/09/2016;Urine;Urine;Enterobacteriaceae;Enterobacter cloacae;Coliform species;NA;R;R;S;NA;R;S;R;NA;NA;NA;R;R;R;NA;R;S
+274;2016/5171;08/06/2018;Urine;Urine;Enterobacteriaceae;Coliform species;Coliform species;NA;R;S;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+286;2018/0418;27/01/2018;Urine;Urine;Enterobacteriaceae;Coliform species;Coliform species;NA;R;R;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+269;2018/0993;05/03/2018;Urine;Urine;Enterobacteriaceae;Coliform species;Coliform species;NA;R;R;R;NA;R;R;R;NA;NA;NA;R;R;R;NA;S;S
+285;2018/1340;21/03/2018;Urine;Urine;Enterobacteriaceae;Coliform species;Coliform species;NA;R;R;S;NA;R;R;S;NA;NA;NA;S;S;S;NA;R;S
+270;2018/1776;25/04/2018;Urine;Urine;Enterobacteriaceae;Coliform species;Coliform species;NA;R;R;R;NA;R;R;R;NA;NA;NA;S;R;R;NA;R;S
+289;2018/2086;30/04/2018;Urine;Urine;Enterobacteriaceae;Coliform species;Coliform species;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+279;2018/2341;16/05/2018;Urine;Urine;Enterobacteriaceae;Coliform species;Coliform species;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;R;S
+292;2018/3581;17/07/2018;Urine;Urine;Enterobacteriaceae;Coliform species;Coliform species;NA;R;R;S;NA;R;;S;NA;NA;NA;S;S;S;NA;S;S
+284;2018/4489;03/09/2018;Urine;Urine;Enterobacteriaceae;Coliform species;Coliform species;NA;R;R;S;NA;R;R;S;NA;NA;NA;S;R;S;NA;S;S
+298;2018/4719;11/09/2018;Urine;Urine;Enterobacteriaceae;Enterobacter cloacae;Coliform species;NA;R;R;S;NA;R;S;R;NA;NA;NA;R;S;R;NA;R;S
+272;2018/4766;12/09/2018;Urine;Urine;Enterobacteriaceae;Coliform species;Coliform species;NA;S;S;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+277;2018/5612;17/10/2018;Urine;Urine;Enterobacteriaceae;Coliform species;Coliform species;NA;R;R;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+287;2018/6215;12/11/2018;Urine;Urine;Enterobacteriaceae;Coliform species;Coliform species;NA;S;R;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+276;2018/6218;13/11/2018;Urine;Urine;Enterobacteriaceae;Coliform species;Coliform species;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+275;2018/6418;21/11/2018;Urine;Urine;Enterobacteriaceae;Coliform species;Coliform species;NA;R;S;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+283;SCC1585;18/12/2018;Urine;Urine;Enterobacteriaceae;Coliform species;Coliform species;NA;R;R;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+271;N/A;03/10/2018;Urine;Urine;Enterobacteriaceae;Coliform species;Coliform species;NA;R;R;R;NA;S;R;R;NA;NA;NA;S;S;R;NA;S;S
+282;N/A;30/07/2018;Urine;Urine;Enterobacteriaceae;Coliform species;Coliform species;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;R;S
+290;N/A;06/08/2018;Urine;Urine;Enterobacteriaceae;Coliform species;Coliform species;NA;R;R;S;NA;R;S;R;NA;NA;NA;S;S;S;NA;R;S
+295;N/A;07/09/2016;Urine;Urine;Enterobacteriaceae;Coliform species;Coliform species;NA;R;S;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+305;20012;14/09/2016;Urine;Urine;Enterococcus spp;Enterococcus faecalis;Enterococcus species;S;S;NA;NA;NA;R;S;NA;S;NA;NA;NA;NA;NA;S;NA;S
+304;1995/5373;25/08/2016;Urine;Urine;Enterococcus spp;Enterococcus faecalis;Enterococcus species;S;S;NA;NA;NA;R;S;NA;S;NA;NA;NA;NA;NA;S;NA;S
+311;2007/7863;01/11/2017;Urine;Urine;Enterococcus spp;Enterococcus faecalis;Enterococcus species;S;S;NA;NA;NA;R;S;NA;S;NA;NA;NA;NA;NA;S;NA;S
+303;2008/0561;15/09/2016;Urine;Urine;Enterococcus spp;Enterococcus faecalis;Enterococcus species;S;S;NA;NA;NA;R;S;NA;S;NA;NA;NA;NA;NA;S;NA;S
+301;2015/6526;26/11/2016;Urine;Urine;Enterococcus spp;Enterococcus faecalis;Enterococcus species;S;S;NA;NA;NA;R;R;NA;S;NA;NA;NA;NA;NA;S;NA;S
+302;2016/1557;27/04/2016;Urine;Urine;Enterococcus spp;Enterococcus faecalis;Enterococcus species;S;S;NA;NA;NA;R;S;NA;S;NA;NA;NA;NA;NA;S;NA;S
+306;2016/6586;15/12/2016;Urine;Urine;Enterococcus spp;Enterococcus faecalis;Enterococcus species;S;S;NA;NA;NA;R;S;NA;S;NA;NA;NA;NA;NA;S;NA;S
+310;2017/2078;20/07/2017;Urine;Urine;Enterococcus spp;Enterococcus faecalis;Enterococcus species;S;S;NA;NA;NA;S;S;NA;S;NA;NA;NA;NA;NA;S;NA;S
+309;2017/3253;07/09/2017;Urine;Urine;Enterococcus spp;Enterococcus faecalis;Enterococcus species;S;S;NA;NA;NA;R;S;NA;S;NA;NA;NA;NA;NA;S;NA;S
+308;2017/4993;27/11/2017;Urine;Urine;Enterococcus spp;Enterococcus faecalis;Enterococcus species;S;S;NA;NA;NA;S;S;NA;R;NA;NA;NA;NA;NA;S;NA;S
+299;2018/0485;06/03/2018;Urine;Urine;Enterococcus spp;Enterococcus faecalis;Enterococcus species;S;R;NA;NA;NA;R;R;NA;R;NA;NA;NA;NA;NA;R;NA;S
+312;2018/0830;22/02/2018;Urine;Urine;Enterococcus spp;Enterococcus faecalis;Enterococcus species;S;S;NA;NA;NA;R;S;NA;S;NA;NA;NA;NA;NA;S;NA;S
+313;2018/3336;05/07/2018;Urine;Urine;Enterococcus spp;Enterococcus faecalis;Enterococcus species;S;S;NA;NA;NA;R;S;NA;S;NA;NA;NA;NA;NA;S;NA;S
+314;2018/5670;18/10/2018;Urine;Urine;Enterococcus spp;Enterococcus faecalis;Enterococcus species;R;S;NA;NA;NA;R;S;NA;R;NA;NA;NA;NA;NA;S;NA;S
+300;N/A;19/08/2016;Urine;Urine;Enterococcus spp;Enterococcus faecalis;Enterococcus species;S;S;R;NA;NA;R;R;NA;S;NA;NA;NA;NA;NA;S;NA;S
+307;N/A;14/08/2017;Urine;Urine;Enterococcus spp;Enterococcus faecalis;Enterococcus species;S;R;NA;NA;NA;R;R;NA;S;NA;NA;NA;NA;NA;S;NA;R
+513;1210;05/09/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+536;1246;26/09/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;R;S;NA;NA;NA;S;S;S;NA;S;S
+418;5056;28/08/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;S;R;NA;NA;NA;S;R;S;NA;R;S
+360;20098;09/08/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+463;20098;15/11/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;R;S
+366;20117;26/03/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+505;20314;06/09/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;R;S;NA;NA;NA;S;S;S;NA;S;S
+552;20369;03/11/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;S;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+559;05/09/2017;05/09/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;S;S;NA;NA;NA;S;R;S;NA;S;S
+361;60166;22/01/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+409;60389;02/11/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;R;S;S;NA;S;S
+546;1501-1038-01;06/03/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+500;1501-1083-02;07/08/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;R;R;NA;NA;NA;S;R;R;NA;R;S
+415;1501-1384-01;21/06/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;S;R;NA;NA;NA;S;S;S;NA;R;S
+433;1501-1448-01;05/09/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;S;S;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+421;1501-1465-01;17/09/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;R;NA;NA;NA;S;S;S;NA;R;S
+344;1501-1486-01;25/09/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+424;1974/8805;04/05/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+321;1982/3083;03/05/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;R;R;NA;NA;NA;S;R;R;NA;S;S
+372;1986/3606;09/07/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+528;1995/8177;12/04/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+422;2000/2560;;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;S;S;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+495;2001/1374;15/09/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+337;2001/6793;25/06/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;S;S;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+453;2001/9239;24/10/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;R;R;NA;NA;NA;S;S;S;NA;R;S
+475;2001/A127;25/11/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+435;2002/2946;17/03/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;R;R;NA;NA;NA;S;R;R;NA;R;S
+413;2002/4938;16/04/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;R;R;NA;NA;NA;S;R;S;NA;S;S
+335;2002/9963;13/12/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+474;2003/4132;22/11/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;S;R;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+530;2003/5974;15/02/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;R;S
+471;2003/7370;28/04/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+496;2004/0310;22/09/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;R;S;NA;NA;NA;S;S;S;NA;S;S
+511;2004/0310;20/12/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;R;S;NA;NA;NA;S;S;S;NA;S;S
+395;2004/2072;14/02/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;R;S;NA;NA;NA;S;S;S;NA;S;S
+400;2004/2072;14/02/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;R;S;NA;NA;NA;S;S;S;NA;S;S
+315;2005/1499;20/06/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;S;S;NA;S;S;R;NA;NA;NA;S;R;R;NA;S;S
+547;2005/6059;10/04/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+368;2005/6850;10/06/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+376;2005/7660;05/07/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;S;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+343;2007/2490;23/04/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;S;R;S;NA;R;R;S;NA;NA;NA;S;S;S;NA;S;S
+354;2007/5564;14/06/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;R;S;NA;NA;NA;S;S;S;NA;S;S
+333;2008/1811;08/05/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;S;S;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+531;2008/3286;08/02/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;R;NA;NA;NA;S;S;S;NA;S;S
+443;2009/2270;21/10/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+527;2009/2272;22/04/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+549;2009/3987;05/11/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;R;R;NA;NA;NA;S;R;R;NA;R;S
+492;2009/5265;21/09/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+341;2009/6806;04/05/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;S;S;NA;S;R;S;NA;NA;NA;S;S;S;NA;S;S
+515;201/3278;04/09/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+351;2011/2416;12/04/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;S;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+397;2011/2416;12/04/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;S;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+544;2011/4888;05/06/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+328;2012/0219;08/01/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;R;R;NA;NA;NA;S;R;R;NA;S;S
+485;2012/1576;20/09/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;S;S;NA;S;S;R;NA;NA;NA;S;R;R;NA;S;S
+322;2012/3586;15/12/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;S;R;R;NA;R;R;S;NA;NA;NA;S;S;S;NA;R;S
+516;2012/4694;18/09/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+537;2012/5042;07/09/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;R;S;NA;NA;NA;S;S;S;NA;S;S
+326;2013/0131;08/05/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;R;R;NA;NA;NA;S;R;R;NA;S;S
+349;2013/0204;29/01/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;S;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+553;2013/0204;23/09/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+479;2013/2102;17/08/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+520;2013/4165;12/08/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+431;2013/5510;17/09/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;S;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+432;2013/5510;19/11/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;S;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+459;2014/3627;16/02/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+489;2014/3727;17/10/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+449;2014/4098;28/01/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;S;R;NA;NA;NA;S;S;S;NA;;S
+430;2014/7881;01/06/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+550;2015/0503;14/03/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+518;2015/1529;17/07/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;S;S;R;NA;NA;NA;S;R;S;NA;R;S
+367;2015/3336;12/08/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+533;2015/3336;03/01/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+365;2015/3506;08/04/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;R;S
+388;2015/4020;24/08/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+399;2015/4020;24/08/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+486;2015/5028;22/09/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;S;R;S;NA;NA;NA;S;S;S;NA;S;S
+538;2015/5028;13/02/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;R;S;NA;NA;NA;S;S;S;NA;S;S
+548;2015/5310;09/05/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+498;2015/5402;13/11/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;R;;NA;NA;NA;S;R;R;NA;S;S
+437;2015/5673;03/12/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;R;S;NA;NA;NA;S;S;S;NA;S;S
+493;2015/6609;11/11/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+532;2016/0048;06/02/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+497;2016/0106;18/01/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;R;NA;NA;NA;S;S;S;NA;S;S
+371;2016/0546;01/02/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+469;2016/0565;02/02/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+470;2016/0739;19/04/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;R;S
+452;2016/0968;24/02/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;R;R;NA;NA;NA;S;R;;NA;S;S
+481;2016/1061;01/03/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+448;2016/1094;03/03/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;S;R;NA;NA;NA;S;S;S;NA;R;S
+445;2016/1198;07/03/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;S;S;NA;NA;NA;S;S;S;NA;R;S
+352;2016/1503;08/06/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;R;R;NA;NA;NA;S;R;R;NA;S;S
+444;2016/1512;21/03/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;S;S;NA;NA;NA;S;S;S;NA;R;S
+454;2016/1534;14/09/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;S;R;S;NA;S;R;S;NA;NA;NA;S;S;S;NA;S;S
+323;2016/1607;20/07/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;R;R;NA;NA;NA;S;R;R;NA;S;S
+357;2016/1699;30/03/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;S;R;S;NA;S;R;S;NA;NA;NA;S;S;S;NA;S;S
+436;2016/2108;20/04/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;S;R;NA;S;R;R;NA;NA;NA;S;R;R;NA;R;S
+465;2016/2319;04/05/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+370;2016/2439;09/05/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;R;S;NA;NA;NA;S;S;S;NA;R;S
+450;2016/2491;12/05/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+356;2016/2677;24/05/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;R;S;NA;NA;NA;S;S;S;NA;S;S
+362;2016/2721;24/05/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;R;S
+441;2016/2751;01/06/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;S;S;NA;NA;NA;S;S;S;NA;;S
+519;2016/3235;03/09/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+353;2016/3461;11/07/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;S;R;NA;NA;NA;S;R;R;NA;S;S
+477;2016/3608;15/07/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+363;2016/3672;20/07/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+467;2016/3806;27/07/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+466;2016/4289;18/08/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+438;2016/4403;24/08/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;R;S;NA;NA;NA;S;S;S;NA;S;S
+439;2016/4403;24/08/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;R;S;NA;NA;NA;S;S;S;NA;S;S
+491;2016/4751;14/09/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+494;2016/4762;15/09/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+487;2016/5012;27/09/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+490;2016/5244;06/10/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;;NA;NA;NA;S;S;S;NA;R;S
+316;2016/5379;13/10/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;S;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+480;2016/5472;18/10/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;S;R;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+451;2016/5539;20/10/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+483;2016/5653;06/12/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+364;2016/5669;04/04/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;R;S
+319;2016/5709;03/11/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;R;R;NA;NA;NA;S;R;R;NA;R;S
+457;2016/5720;14/12/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;S;R;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+476;2016/5966;08/11/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;S;R;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+478;2016/6100;14/11/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+455;2016/6324;24/11/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;R;S;NA;NA;NA;S;S;S;NA;S;S
+379;2016/6445;16/01/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;R;R;NA;NA;NA;S;R;R;NA;R;R
+380;2016/6445;16/01/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;R;R;NA;NA;NA;S;R;R;NA;R;R
+458;2016/6549;20/12/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+447;2016/6588;14/12/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+484;2016/6591;14/12/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+488;2016/6627;16/12/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;S;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+355;2016/6686;20/12/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;S;S;R;NA;NA;NA;S;R;S;NA;R;S
+456;2016/6707;21/12/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;R;S;NA;NA;NA;S;S;S;NA;S;S
+440;2016/M336;21/11/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;R;S;NA;NA;NA;S;S;S;NA;S;S
+543;2017/?910;30/05/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;R;S
+503;2017/0003;12/05/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;S;S;NA;NA;NA;S;S;S;NA;R;S
+499;2017/0339;06/03/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;R;R;NA;NA;NA;S;R;R;NA;R;S
+506;2017/0340;20/02/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;R;S;NA;NA;NA;S;S;S;NA;S;S
+529;2017/0686;13/03/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+534;2017/0824;20/03/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+535;2017/0850;21/03/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+521;2017/0863;22/09/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+504;2017/1011;29/03/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+330;2017/1457;19/09/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+525;2017/1762;17/05/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;S;R;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+526;2017/1834;23/05/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;R;S
+501;2017/1837;23/05/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;R;R;NA;NA;NA;S;R;R;NA;R;S
+523;2017/2028;07/06/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;S;S;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+517;2017/2036;13/06/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+522;2017/2349;04/07/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+508;2017/2547;18/07/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;R;S;NA;NA;NA;S;S;S;NA;S;S
+541;2017/2640;24/07/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+512;2017/3000;11/09/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+405;2017/3976;09/10/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+382;2017/4508;01/11/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;S;R;NA;R;R;R;NA;NA;NA;S;R;S;NA;S;S
+383;2017/4508;01/11/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;S;R;NA;R;R;R;NA;NA;NA;S;R;S;NA;S;S
+384;2017/4624;20/11/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;R;S;NA;NA;NA;S;S;S;NA;S;S
+542;2017/4757;13/11/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+378;2017/4769;13/11/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;R;R;NA;NA;NA;S;R;R;NA;S;S
+392;2017/4796;14/11/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;S;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+391;2017/5319;12/12/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+390;2017/5436;19/12/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;S;R;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;R;S
+329;2017/5515;17/01/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+387;2017/5515;22/12/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;R;S
+514;2017/5515;22/12/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;R;S
+389;2017/5543;27/12/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;R;S
+420;2017/5593;29/12/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;R;R;NA;NA;NA;S;R;R;NA;S;S
+347;2018/0705;14/06/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+324;2018/0724;15/02/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;R;R;NA;NA;NA;S;R;R;NA;S;S
+417;2018/0878;28/02/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;R;S;NA;NA;NA;S;S;S;NA;R;R
+414;2018/0941;15/11/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;R;S;NA;NA;NA;S;S;S;NA;S;S
+416;2018/1152;12/03/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;R;S;NA;NA;NA;S;S;S;NA;S;S
+558;2018/1575;04/04/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+318;2018/1753;16/04/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;S;R;NA;NA;NA;S;R;S;NA;S;S
+327;2018/2542;03/07/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;R;R;NA;NA;NA;S;R;R;NA;S;S
+423;2018/2542;;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;S;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;R
+342;2018/2918;19/06/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;R;R;NA;NA;NA;S;S;S;NA;R;S
+551;2018/2994;18/10/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+338;2018/3069;25/06/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;S;S;R;NA;NA;NA;S;R;S;NA;R;R
+336;2018/3315;04/07/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;S;S;R;NA;NA;NA;S;S;S;NA;R;S
+350;2018/3610;19/07/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;S;S;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+411;2018/4063;09/08/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;R;R;NA;NA;NA;S;R;R;NA;R;S
+434;2018/4521;04/09/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+412;2018/4614;06/09/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;R;S;NA;NA;NA;S;S;S;NA;S;S
+346;2018/4942;15/11/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;R;NA;NA;NA;S;S;S;NA;R;S
+429;2018/5153;01/10/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;S;S;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+339;2018/5341;08/10/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;S;S;NA;S;S;R;NA;NA;NA;R;R;R;NA;S;S
+555;2018/5906;29/10/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;R;R;NA;NA;NA;S;S;S;NA;R;S
+340;2018/6330;15/11/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;S;S;S;NA;R;R;S;NA;NA;NA;S;S;S;NA;S;S
+334;2018/6487;26/11/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+554;2018/6593;02/12/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;R;NA;NA;NA;S;S;S;NA;R;S
+373;29-002-065Z ;02/02/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;R;R;NA;NA;NA;S;S;S;NA;S;S
+442;29-999-218C;27/01/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;S;R;NA;NA;NA;S;S;S;NA;R;S
+507;BIV-1501-1050-01;28/03/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;S;R;R;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+381;BIV-1501-1083-???;11/05/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;R;R;NA;NA;NA;S;R;R;NA;R;R
+464;M015J;06/03/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+375;M026E;10/10/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;R;S
+348;M285G;04/01/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;S;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;R;S
+473;M512H;06/06/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;S;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+359;M586G;04/08/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;S;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;R;S
+345;M779D;11/01/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+331;M781H;03/01/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;S;S;R;NA;NA;NA;S;S;S;NA;R;S
+332;M800F;07/05/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;S;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+385;N/A;27/06/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;S;R;NA;NA;NA;S;S;S;NA;S;S
+386;N/A;28/12/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;R;S;NA;NA;NA;S;S;S;NA;R;S
+393;N/A;19/09/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;S;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+394;N/A;20/03/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;R;S;S;NA;R;S
+396;N/A;26/07/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+398;N/A;20/03/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;R;S;S;NA;R;S
+401;N/A;29/11/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;R;S;NA;NA;NA;S;S;S;NA;S;S
+402;N/A;28/11/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;S;S;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+403;N/A;07/11/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;R;S;NA;NA;NA;S;S;S;NA;S;S
+404;N/A;27/10/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+406;N/A;28/11/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;S;S;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+407;N/A;29/11/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;R;S;NA;NA;NA;S;S;S;NA;S;S
+509;N/A;07/09/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;R;S;NA;NA;NA;S;S;S;NA;R;S
+510;N/A;19/09/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;R;S;NA;NA;NA;S;S;S;NA;S;S
+524;N/A;10/05/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;S;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+539;N/A;03/02/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;R;S;NA;NA;NA;S;S;S;NA;S;S
+540;N/A;25/09/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+545;N/A;09/05/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+408;SC1433;30/11/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+410;SC1433;30/11/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+317;N/A;08/12/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;R;R;NA;NA;NA;S;R;R;NA;R;S
+320;N/A;31/03/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;R;R;NA;NA;NA;S;R;R;NA;R;S
+325;N/A;22/05/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;R;R;NA;NA;NA;S;R;R;NA;R;S
+358;N/A;10/05/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;R;S;NA;NA;NA;S;S;S;NA;S;S
+369;N/A;14/06/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;S;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+374;N/A;29/09/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+377;N/A;11/09/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+419;N/A;23/04/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;S;R;NA;NA;NA;S;S;S;NA;R;R
+425;N/A;02/05/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;S;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+426;N/A;03/08/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;S;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+427;N/A;03/08/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;S;S;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+428;N/A;17/10/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+446;N/A;28/06/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;;R;NA;R;S;S;NA;NA;NA;S;S;S;NA;;S
+460;N/A;14/11/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+461;N/A;19/05/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;S;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+462;N/A;25/09/2017;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+468;N/A;03/08/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;S;S;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+472;N/A;28/04/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+482;N/A;19/08/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;S;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+502;N/A;13/12/2016;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;R;NA;R;R;R;NA;NA;NA;S;R;R;NA;S;S
+556;N/A;09/01/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;S;R;S;NA;NA;NA;S;S;S;NA;S;S
+557;N/A;18/04/2018;Urine;Urine;Enterobacteriaceae;Escherichia coli;Escherichia coli;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+593;14/4159;22/08/2016;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+569;2002/2811;26/11/2018;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;S;NA;R;R;R;NA;NA;NA;S;R;R;NA;S;S
+579;2002/2811;19/11/2018;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;S;NA;R;R;R;NA;NA;NA;S;R;R;NA;R;S
+590;2004/5205;02/06/2016;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+592;2004/5205;02/06/2016;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+585;2006/3058;25/01/2016;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;R;NA;S;S;R;NA;NA;NA;S;S;S;NA;S;S
+596;2008/1613;23/09/2016;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;S;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+604;2010/6562;18/05/2017;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;R;NA;S;S;R;NA;NA;NA;S;R;R;NA;R;S
+586;2011/2067;05/04/2016;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;R;NA;R;R;R;NA;NA;NA;S;R;R;NA;S;S
+573;2012/0615;25/09/2018;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;R;NA;R;S;R;NA;NA;NA;S;R;R;NA;R;S
+612;2013/0131;15/05/2017;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;S;NA;S;S;R;NA;NA;NA;S;S;S;NA;S;S
+568;2013/1954;08/05/2018;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;R;NA;R;R;R;NA;NA;NA;S;R;R;NA;R;R
+603;2013/5215;10/08/2017;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;R;NA;R;S;R;NA;NA;NA;S;R;R;NA;R;S
+605;2014/6962;05/10/2017;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;R;NA;R;S;R;NA;NA;NA;S;R;R;NA;R;S
+583;2015/3506;07/03/2016;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;R;NA;S;S;S;NA;NA;NA;S;S;S;NA;R;S
+574;2015/6526;19/06/2018;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;R;NA;S;S;R;NA;NA;NA;S;R;R;NA;S;S
+600;2016/1094;10/10/2016;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+584;2016/1270;09/03/2016;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;R;NA;R;S;S;NA;NA;NA;S;S;S;NA;R;S
+582;2016/1684;30/03/2016;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;S;R;NA;R;R;R;NA;NA;NA;S;S;S;NA;S;S
+595;2016/1711;07/04/2016;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+581;2016/2834;31/05/2016;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;S;R;NA;S;S;R;NA;NA;NA;S;R;R;NA;S;S
+602;2016/3003;30/05/2017;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;R;NA;R;R;R;NA;NA;NA;S;R;R;NA;R;R
+611;2016/3003;05/06/2017;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;S;NA;R;R;R;NA;NA;NA;S;R;R;NA;S;R
+591;2016/3368;23/03/2016;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;S;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+594;2016/3709;21/07/2016;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+597;2016/3821;27/07/2016;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;S;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+601;2016/5039;27/09/2016;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+571;2016/5887;03/11/2016;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;S;R;NA;S;S;R;NA;NA;NA;S;R;R;NA;R;S
+589;2016/5902;28/12/2016;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;S;NA;R;R;R;NA;NA;NA;S;R;S;NA;S;S
+598;2016/6449;19/12/2016;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;S;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;R
+588;2016/6627;17/12/2016;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;S;NA;R;S;R;NA;NA;NA;S;R;R;NA;R;S
+614;2017/0551;06/03/2017;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+606;2017/0617;10/04/2017;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;R;NA;R;S;R;NA;NA;NA;S;R;R;NA;R;S
+607;2017/0617;30/03/2017;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;R;NA;R;S;R;NA;NA;NA;S;R;R;NA;R;R
+608;2017/0617;01/06/2017;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;R;NA;R;R;R;NA;NA;NA;S;R;R;NA;R;R
+609;2017/0617;21/04/2017;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;R;NA;R;R;R;NA;NA;NA;S;R;R;NA;R;R
+610;2017/0617;08/03/2017;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;R;NA;R;R;R;NA;NA;NA;R;R;R;NA;R;R
+570;2017/0957;25/04/2018;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;S;NA;R;S;R;NA;NA;NA;S;R;R;NA;S;S
+561;2017/1457;10/09/2018;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;S;R;NA;S;S;R;NA;NA;NA;S;S;S;NA;S;S
+613;2017/3763;04/10/2017;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;S;S;NA;S;S;R;NA;NA;NA;S;S;S;NA;S;S
+563;2018/0157;10/01/2018;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;R;NA;R;R;R;NA;NA;NA;S;R;R;NA;R;R
+567;2018/0212;15/01/2018;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;R;NA;S;R;R;NA;NA;NA;S;R;R;NA;R;S
+566;2018/0318;22/01/2018;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;R;NA;R;R;R;NA;NA;NA;S;R;R;NA;R;S
+615;2018/2392;04/06/2018;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;S;NA;R;S;R;NA;NA;NA;S;S;S;NA;R;R
+565;2018/3014;19/07/2018;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;R;NA;R;R;R;NA;NA;NA;S;R;R;NA;R;S
+562;2018/3802;30/07/2018;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;R;NA;R;R;R;NA;NA;NA;S;R;R;NA;R;S
+577;2018/4638;19/11/2018;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;R;NA;R;R;R;NA;NA;NA;R;R;R;NA;R;S
+560;M562G;23/09/2016;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+564;N/A;29/01/2018;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;R;NA;R;R;R;NA;NA;NA;S;R;R;NA;R;S
+572;N/A;23/09/2016;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;S;NA;R;R;R;NA;NA;NA;S;R;R;NA;S;S
+575;N/A;02/07/2018;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;S;NA;R;R;R;NA;NA;NA;S;R;R;NA;S;S
+576;N/A;11/05/2017;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;R;NA;R;R;R;NA;NA;NA;S;R;R;NA;R;R
+578;N/A;01/08/2018;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;R;NA;R;R;R;NA;NA;NA;S;;R;NA;R;S
+580;N/A;23/02/2016;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;R;NA;R;R;R;NA;NA;NA;S;R;R;NA;S;S
+587;N/A;24/03/2016;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;S;NA;R;S;R;NA;NA;NA;S;R;R;NA;S;S
+599;N/A;27/07/2016;Urine;Urine;Enterobacteriaceae;Klebsiella pneumoniae;Klebsiella pneumoniae;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+626;2001/8738;04/05/2017;Urine;Urine;Enterobacteriaceae;Klebsiella species;Klebsiella species;NA;R;R;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+622;2010/6562;30/04/2017;Urine;Urine;Enterobacteriaceae;Klebsiella species;Klebsiella species;NA;R;R;R;NA;S;R;R;NA;NA;NA;S;R;R;NA;R;S
+625;2015/5028;13/03/2017;Urine;Urine;Enterobacteriaceae;Klebsiella species;Klebsiella species;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;R;S
+620;2016/3003;16/05/2017;Urine;Urine;Enterobacteriaceae;Klebsiella species;Klebsiella species;NA;R;R;R;NA;R;R;R;NA;NA;NA;S;R;R;NA;R;R
+619;2016/4052;08/08/2016;Urine;Urine;Enterobacteriaceae;Klebsiella species;Klebsiella species;NA;R;R;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+623;2017/2329;30/06/2017;Urine;Urine;Enterobacteriaceae;Klebsiella species;Klebsiella species;NA;R;R;R;NA;R;S;S;NA;NA;NA;S;S;S;NA;R;S
+621;2017/5112;30/11/2017;Urine;Urine;Enterobacteriaceae;Klebsiella species;Klebsiella species;NA;R;R;R;NA;R;S;R;NA;NA;NA;S;R;R;NA;S;R
+627;2018/0298;23/03/2018;Urine;Urine;Enterobacteriaceae;Klebsiella species;Klebsiella species;NA;R;R;R;NA;S;R;R;NA;NA;NA;S;R;R;NA;R;S
+629;2018/0653;12/02/2018;Urine;Urine;Enterobacteriaceae;Klebsiella species;Klebsiella species;NA;R;R;R;NA;R;S;R;NA;NA;NA;S;S;S;NA;R;S
+617;2018/1235;03/04/2018;Urine;Urine;Enterobacteriaceae;Klebsiella species;Klebsiella species;NA;R;R;R;NA;S;R;R;NA;NA;NA;S;R;R;NA;R;R
+628;2018/3576;13/09/2018;Urine;Urine;Enterobacteriaceae;Klebsiella species;Klebsiella species;NA;R;R;R;NA;R;S;R;NA;NA;NA;S;S;S;NA;R;S
+618;2018/4246;28/08/2018;Urine;Urine;Enterobacteriaceae;Klebsiella species;Klebsiella species;NA;R;R;R;NA;S;R;R;NA;NA;NA;S;R;R;NA;R;S
+624;N/A;04/05/2017;Urine;Urine;Enterobacteriaceae;Klebsiella species;Klebsiella species;NA;R;S;S;NA;S;R;R;NA;NA;NA;S;R;R;NA;R;S
+616;N/A;14/04/2016;Urine;Urine;Enterobacteriaceae;Klebsiella oxytoca;Klebsiella species;NA;R;R;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;S
+632;1501-1043-01;14/03/2017;Urine;Urine;Enterobacteriaceae;Proteus mirabilis;Proteus species;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;R
+636;2001/5103;06/09/2016;Urine;Urine;Enterobacteriaceae;Proteus vulgaris;Proteus species;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+635;2012/0772;06/09/2016;Urine;Urine;Enterobacteriaceae;Proteus vulgaris;Proteus species;NA;R;R;S;NA;R;R;R;NA;NA;NA;S;S;S;NA;S;S
+630;2017/0397;24/05/2017;Urine;Urine;Enterobacteriaceae;Proteus mirabilis;Proteus species;NA;R;R;S;NA;R;R;S;NA;NA;NA;S;S;S;NA;S;R
+633;2017/0397;23/08/2017;Urine;Urine;Enterobacteriaceae;Proteus species;Proteus species;NA;R;R;R;NA;R;R;S;NA;NA;NA;S;S;S;NA;S;S
+631;2017/5016;27/11/2017;Urine;Urine;Enterobacteriaceae;Proteus mirabilis;Proteus species;NA;R;R;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+634;2018/4723;11/09/2018;Urine;Urine;Enterobacteriaceae;Proteus species;Proteus species;NA;S;S;S;NA;R;S;S;NA;NA;NA;S;S;S;NA;S;S
+645;1501-1426-01;27/08/2018;Urine;Urine;pseudomonadaceae;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;S
+641;2009/3073;27/07/2018;Urine;Urine;pseudomonadaceae;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;R;NA;NA;R;NA;NA;S;NA;NA;NA;S;NA;NA;S
+642;2011/4761;08/05/2018;Urine;Urine;pseudomonadaceae;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;R;NA;NA;R;NA;NA;S;NA;NA;NA;S;NA;NA;S
+639;2013/1378;21/09/2016;Urine;Urine;pseudomonadaceae;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;S
+638;2016/2554;12/08/2016;Urine;Urine;pseudomonadaceae;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;R;NA;NA;R;NA;NA;S;NA;NA;NA;S;NA;NA;S
+637;2016/6101;14/11/2016;Urine;Urine;pseudomonadaceae;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;R;NA;NA;R;NA;NA;S;NA;NA;NA;S;NA;NA;S
+643;2018/4063;09/08/2018;Urine;Urine;pseudomonadaceae;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;S
+640;N/A;09/10/2017;Urine;Urine;pseudomonadaceae;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;R;NA;NA;R;NA;NA;S;NA;NA;NA;S;NA;NA;S
+644;N/A;22/05/2018;Urine;Urine;pseudomonadaceae;Pseudomonas aeruginosa;Pseudomonas aeruginosa;NA;NA;NA;S;NA;NA;S;NA;NA;S;NA;NA;NA;S;NA;NA;S
+649;2004/5718;29/10/2018;Urine;Urine;pseudomonadaceae;Raoutella ornithinolytica;Pseudomonas species;NA;R;R;R;NA;R;R;R;NA;NA;NA;R;R;R;NA;R;S
+646;2013/5720;04/04/2016;Urine;Urine;pseudomonadaceae;Mannheimia haemolytica;Pseudomonas species;NA;S;S;S;NA;S;S;S;NA;NA;NA;S;R;R;NA;S;S
+648;2017/1171;25/04/2017;Urine;Urine;pseudomonadaceae;Pseudomonas species;Pseudomonas species;NA;NA;NA;R;NA;NA;S;NA;NA;S;NA;NA;NA;R;NA;NA;S
+647;2017/2369;05/07/2017;Urine;Urine;pseudomonadaceae;Pantoea species;Pseudomonas species;NA;R;R;S;NA;S;S;S;NA;NA;NA;S;S;S;NA;S;R
+650;2017/3079;19/08/2017;Urine;Urine;pseudomonadaceae;Raoutella ornithinolytica;Pseudomonas species;NA;R;S;S;NA;S;S;R;NA;NA;NA;R;S;S;NA;S;S
+653;2005/1499;14/09/2016;Urine;Urine;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;S;S;NA;S;S;NA;S;NA;S;S;NA;NA;S;NA;S
+658;2008/0644;03/03/2016;Urine;Urine;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;S;S;NA;S;S;NA;S;NA;S;S;NA;NA;S;NA;S
+659;2008/3092;08/06/2016;Urine;Urine;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;R;S;NA;S;S;NA;S;NA;S;S;NA;NA;S;NA;S
+655;2008/7155;08/08/2016;Urine;Urine;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;R;S;NA;S;S;NA;S;NA;S;S;NA;NA;S;NA;S
+656;2010/1150;23/06/2016;Urine;Urine;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;NA;S;S;NA;S;NA;S;S;NA;NA;S;NA;S
+651;2010/7657;09/03/2016;Urine;Urine;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;R;R;NA;S;S;NA;S;NA;S;S;NA;NA;S;NA;S
+654;2012/4611;08/04/2016;Urine;Urine;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;S;S;NA;S;S;NA;S;NA;S;S;NA;NA;S;NA;S
+652;2016/0730;11/02/2016;Urine;Urine;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;R;NA;R;S;NA;S;NA;S;S;NA;NA;S;NA;S
+660;2017/5363;14/12/2017;Urine;Urine;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;NA;S;S;NA;S;NA;S;S;NA;NA;S;NA;S
+662;2018/0359;20/02/2018;Urine;Urine;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;S;S;NA;S;S;NA;S;NA;S;S;NA;NA;S;NA;S
+661;2018/1153;13/03/2018;Urine;Urine;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;R;NA;R;S;NA;S;S;NA;S;NA;S;S;NA;NA;S;NA;S
+657;N/A;03/03/2016;Urine;Urine;Staphylococcus species;Staphylococcus aureus;Staphylococcus aureus;S;NA;S;S;NA;S;S;NA;S;NA;S;S;NA;NA;S;NA;S
+665;20293;14/08/2017;Urine;Urine;Staphylococcus species;Staphylococcus saprophyticus;Staphylococcus saprophyticus;S;R;R;S;NA;R;S;NA;S;NA;S;S;NA;NA;S;NA;S
+664;1998/3706;01/08/2017;Urine;Urine;Staphylococcus species;Staphylococcus saprophyticus;Staphylococcus saprophyticus;S;R;R;S;NA;S;S;NA;S;NA;S;S;NA;NA;S;NA;S
+663;2003/5974;04/11/2016;Urine;Urine;Staphylococcus species;Staphylococcus saprophyticus;Staphylococcus saprophyticus;S;NA;R;S;NA;S;S;NA;R;NA;S;S;NA;NA;S;NA;S
+667;20102;25/08/2016;Urine;Urine;β-haemolytic streptococci;Streptococcus agalactiae (GBS);Streptococcus agalactiae (GBS);S;S;R;NA;NA;R;S;NA;S;NA;NA;NA;NA;NA;S;NA;S
+679;2000/C251;15/05/2018;Urine;Urine;β-haemolytic streptococci;Streptococcus agalactiae (GBS);Streptococcus agalactiae (GBS);S;S;S;NA;NA;R;S;NA;S;NA;NA;NA;NA;NA;S;NA;S
+669;2001/C289;;Urine;Urine;β-haemolytic streptococci;Streptococcus agalactiae (GBS);Streptococcus agalactiae (GBS);S;S;R;NA;NA;R;S;NA;S;NA;NA;NA;NA;NA;S;NA;S
+668;2005/1499;14/09/2016;Urine;Urine;β-haemolytic streptococci;Streptococcus agalactiae (GBS);Streptococcus agalactiae (GBS);S;S;S;NA;NA;S;S;NA;S;NA;NA;NA;NA;NA;S;NA;S
+677;2009/2711;13/03/2018;Urine;Urine;β-haemolytic streptococci;Streptococcus agalactiae (GBS);Streptococcus agalactiae (GBS);S;S;S;NA;NA;R;S;NA;S;NA;NA;NA;NA;NA;S;NA;S
+676;2009/3572;06/02/2018;Urine;Urine;β-haemolytic streptococci;Streptococcus agalactiae (GBS);Streptococcus agalactiae (GBS);S;S;S;NA;NA;R;S;NA;S;NA;NA;NA;NA;NA;S;NA;S
+672;2012/1576;13/12/2016;Urine;Urine;β-haemolytic streptococci;Streptococcus agalactiae (GBS);Streptococcus agalactiae (GBS);S;S;S;NA;NA;R;S;NA;S;NA;NA;NA;NA;NA;S;NA;S
+666;2016/2291;09/05/2016;Urine;Urine;β-haemolytic streptococci;Streptococcus agalactiae (GBS);Streptococcus agalactiae (GBS);S;S;S;NA;NA;R;S;NA;S;NA;NA;NA;NA;NA;S;NA;S
+674;2017/1726;15/05/2017;Urine;Urine;β-haemolytic streptococci;Streptococcus agalactiae (GBS);Streptococcus agalactiae (GBS);S;S;S;NA;NA;R;S;NA;S;NA;NA;NA;NA;NA;S;NA;S
+675;2018/2114;09/10/2018;Urine;Urine;β-haemolytic streptococci;Streptococcus agalactiae (GBS);Streptococcus agalactiae (GBS);S;S;S;NA;NA;R;S;NA;S;NA;NA;NA;NA;NA;S;NA;S
+678;2018/2949;19/06/2018;Urine;Urine;β-haemolytic streptococci;Streptococcus agalactiae (GBS);Streptococcus agalactiae (GBS);S;S;S;NA;NA;R;S;NA;S;NA;NA;NA;NA;NA;S;NA;S
+670;N/A;02/03/2016;Urine;Urine;β-haemolytic streptococci;Streptococcus agalactiae (GBS);Streptococcus agalactiae (GBS);S;S;S;NA;NA;R;S;NA;S;NA;NA;NA;NA;NA;S;NA;S
+671;N/A;19/03/2016;Urine;Urine;β-haemolytic streptococci;Streptococcus agalactiae (GBS);Streptococcus agalactiae (GBS);S;S;S;NA;NA;R;S;NA;S;NA;NA;NA;NA;NA;S;NA;S
+673;N/A;08/12/2016;Urine;Urine;β-haemolytic streptococci;Streptococcus agalactiae (GBS);Streptococcus agalactiae (GBS);S;S;S;NA;NA;R;S;NA;S;NA;NA;NA;NA;NA;S;NA;S
